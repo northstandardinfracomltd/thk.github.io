@@ -175,11 +175,6 @@ margin-top: -2px !important;
 }
 
 
-img.brands {
-  width: 100% !important;
-
-}
-
 /* Very light scaling for our illustration */
 .client {
   max-width: 50px;
@@ -202,9 +197,46 @@ img.brands {
   justify-content: center;
   padding-left: 20px;
     padding-right: 20px;
+  padding-bottom: 20px;
   border-radius: 14px !important;
+}
+
+
+img.brands {
+  width: 100% !important;
 
 }
+
+@media screen and (max-width: 980px) {
+  .combat {
+		  background: #373756;
+  width: 100%;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+    padding-right: 20px;
+  padding-bottom: 20px;
+  border-radius: 14px !important;
+	}
+}
+
+@media screen and (max-width: 680px) {
+	.combat {
+		  background: #373756;
+  width: 100%;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+    padding-right: 20px;
+  padding-bottom: 20px;
+  border-radius: 14px !important;
+	}
+}
+
 
 .brunch {
         font-size: 26px !important;
@@ -392,7 +424,7 @@ article:nth-child(even) {
   padding-bottom: 20px;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
-  letter-spacing: -0.000em !important;
+  letter-spacing: 0.02em !important;
     border: solid 1px #3f3351;
   margin-bottom: 0px !important;
 }
