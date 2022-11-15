@@ -172,7 +172,7 @@ img.combat {
 img.iconcard {
   padding-right: 8px;
   width: 300px !important;
-
+margin-top: -4px !important;
 }
 
 
@@ -357,11 +357,14 @@ article:nth-child(even) {
   background-color: #241d2e !important;
       font-size: 24px !important;
   padding-left: 20px !important;
+  padding-top: 26px;
+  padding-bottom: 24px;
     font-family: "Saoecom3font" !important;
   line-height: 1.125 !important;
   letter-spacing: -0.000em !important;
     border: solid 1px #3f3351;
 }
+
 
 .cardservice1:focus {
   background-color: #241d2e !important;
