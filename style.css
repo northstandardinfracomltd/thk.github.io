@@ -310,6 +310,20 @@ article:nth-child(even) {
 
 .item {
   width: 300px !important;
+  border: solid 4px transparent;
+}
+
+.item:hover {
+  width: 300px !important;
+  border: solid 4px red;
+}
+
+.cardservice {
+  border: solid 4px transparent;
+}
+
+.cardservice:hover {
+  border: solid 4px red;
 }
 
 .gallery .item {
