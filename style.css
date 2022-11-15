@@ -357,24 +357,16 @@ article:nth-child(even) {
   background-color: #241d2e !important;
       font-size: 24px !important;
   padding-left: 20px !important;
-  padding-top: 25px;
-  padding-bottom: 22px;
+  padding-top: 24px;
+  padding-bottom: 20px;
     font-family: "Saoecom3font" !important;
   line-height: 1.125 !important;
   letter-spacing: -0.000em !important;
     border: solid 1px #3f3351;
+  margin-bottom: -85px !important;
+
 }
 
-
-.cardservice1:focus {
-  background-color: #241d2e !important;
-      font-size: 24px !important;
-  padding-left: 20px !important;
-    font-family: "Palatino" !important;
-  line-height: 1.125 !important;
-  letter-spacing: -0.015em !important;
-    border: solid 1px red;
-}
 
 .cardservice {
   border: solid 4px transparent;
