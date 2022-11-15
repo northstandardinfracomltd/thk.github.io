@@ -37,13 +37,26 @@ to this section's matching END comment to see page-specific styles.
 /* Import fonts */
 @font-face {
   font-family: HK Grotesk;
-  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+  src: url("https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/Charlie_Display-Semibold.woff2?v=1668542560529")
     format("opentype");
 }
 @font-face {
   font-family: HK Grotesk;
   font-weight: bold;
-  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+  src: url("https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/Charlie_Display-Semibold.woff2?v=1668542560529")
+    format("opentype");
+}
+
+@font-face {
+  font-family: Saoecom1font;
+  font-weight: bold;
+  src: url("https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/Charlie_Display-Semibold.woff2?v=1668542560529")
+    format("opentype");
+}
+@font-face {
+  font-family: Saoecom2font;
+  font-weight: bold;
+  src: url("https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/sf-pro-display_medium.woff2?v=1668542716190")
     format("opentype");
 }
 
@@ -338,7 +351,7 @@ article:nth-child(even) {
   background-color: #241d2e !important;
       font-size: 24px !important;
   padding-left: 20px !important;
-    font-family: "Palatino" !important;
+    font-family: "Saoecom2font" !important;
   line-height: 1.125 !important;
   letter-spacing: -0.015em !important;
     border: solid 1px #3f3351;
