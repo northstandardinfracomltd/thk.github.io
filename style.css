@@ -239,13 +239,17 @@ article {
   border-radius: 10px;
   padding: 20px;
   color: #fff;
+  
 }
 
 article:nth-child(odd) {
   background-color: #55BBE9;
       font-size: 20px;
   padding-left: 20px !important;
-}
+    font-family: "Palatino";
+  line-height: 1.125;
+  letter-spacing: -0.015em;
+text-decoration: underline dotted;}
 
 article:nth-child(even) {
   background-color: #afbe29;
@@ -316,10 +320,12 @@ article:nth-child(even) {
 .item:hover {
   width: 300px !important;
   border: solid 4px red;
+  
 }
 
 .cardservice {
   border: solid 4px transparent;
+  text-decoration: underline dotted;
 }
 
 .cardservice:hover {
@@ -386,22 +392,6 @@ article:nth-child(even) {
     font-size: 0.9rem;
   }
 }
-
-
-
-
-
-
-
-
-
-:focus {
-	outline: 0;
-	border-color: #2260ff;
-	box-shadow: 0 0 0 4px #b5c9fc;
-}
-
-
 
 
 
