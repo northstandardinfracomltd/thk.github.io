@@ -308,6 +308,10 @@ article:nth-child(even) {
   );
 }
 
+.item {
+  width: 300px !important;
+}
+
 .gallery .item {
   flex-shrink: 0;
   display: flex;
@@ -316,11 +320,15 @@ article:nth-child(even) {
   scroll-snap-align: center;
   inline-size: 100%;
   max-inline-size: 400px;
-  aspect-ratio: 9 / 16;
+  aspect-ratio: 7 / 9;
   font-size: 2rem;
   background: hotpink;
   border-radius: 4px;
   overflow: hidden;
+  margin-right: 10px;
+    margin-top: 10px;
+  margin-bottom: 10px;
+
 }
 
 .gallery.alt-sizes .item.lg {
