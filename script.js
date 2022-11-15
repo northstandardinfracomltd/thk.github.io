@@ -20,6 +20,18 @@ if (btn) {
   };
 }
 
+
+$(".custom-carousel").owlCarousel({
+  autoWidth: true,
+  loop: true
+});
+$(document).ready(function () {
+  $(".custom-carousel .item").click(function () {
+    $(".custom-carousel .item").not($(this)).removeClass("active");
+    $(this).toggleClass("active");
+  });
+});
+
 // This is a single line JS comment
 /*
 This is a comment that can span multiple lines 
