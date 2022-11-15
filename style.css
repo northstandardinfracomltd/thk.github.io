@@ -225,6 +225,21 @@ img.brands {
 }
 
 
+.parentbrunch {
+  width: 70%;
+  font-size: 26px !important;
+  color: #dcd1ed;
+  padding-left: 100px !important;
+    padding-right: 20px !important;
+  padding-top: 30px;
+  padding-bottom: 20px;
+    font-family: "Saoecom1font" !important;
+  letter-spacing: 0.02em !important;
+  margin-bottom: 0px !important;
+  text-align: center;
+  line-height: 40px;
+}
+
 .brunch {
         font-size: 26px !important;
   color: #dcd1ed;
@@ -251,6 +266,14 @@ img.brands {
   line-height: 40px;
 }
 
+
+.pridesub {
+      font-size: 22px !important;
+    font-family: "Saoecom3font" !important;
+  line-height: 1.4 !important;
+  letter-spacing: 0.01em !important;
+  color: #443e52 !important;
+}
 
 
 /* Button - Add it from the README instructions */
@@ -407,12 +430,12 @@ article:nth-child(even) {
 
 .item {
   width: 300px !important;
-  border: solid 4px transparent;
+  border: solid 1px transparent;
 }
 
 .item:hover {
   width: 300px !important;
-  border: solid 4px red;
+  border: solid 1px red;
   
 }
 
