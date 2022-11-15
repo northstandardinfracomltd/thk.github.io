@@ -206,8 +206,18 @@ img.brands {
 
 }
 
-p.combat {
-  display: none;
+.brunch {
+        font-size: 24px !important;
+  color: #fff;
+  padding-left: 20px !important;
+    padding-right: 20px !important;
+  padding-top: 30px;
+  padding-bottom: 20px;
+    font-family: "Saoecom1font" !important;
+  letter-spacing: -0.000em !important;
+  margin-bottom: 0px !important;
+  text-align: center;
+  line-height: 40px;
 }
 
 
@@ -292,6 +302,42 @@ article:nth-child(even) {
     font-size: 20px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+article2 {
+    line-height: 0;
+  border-radius: 10px;
+  padding: 20px;
+  color: #fff;
+  
+}
+
+article2:nth-child(odd) {
+  background-color: #55BBE9;
+      font-size: 20px;
+  padding-left: 20px !important;
+    font-family: "Palatino";
+  line-height: 0;
+  letter-spacing: -0.015em;
+}
+
+article2:nth-child(even) {
+  background-color: #afbe29;
+    font-size: 20px;
+}
 .mars {
   background: #373756;
   width: 100%;
