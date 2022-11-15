@@ -160,6 +160,11 @@ img.combat {
 
 }
 
+img.iconcard {
+  padding-right: 8px;
+  width: 300px !important;
+
+}
 
 
 /* Very light scaling for our illustration */
