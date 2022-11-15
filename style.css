@@ -375,13 +375,24 @@ article:nth-child(even) {
 
 
 
-@charset "utf-8";
 
-/******* Fonts Import Start **********/
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
-/********* Fonts Face CSS End **********/
 
-/******* Common Element CSS Start ******/
+
+
+
+
+:focus {
+	outline: 0;
+	border-color: #2260ff;
+	box-shadow: 0 0 0 4px #b5c9fc;
+}
+
+
+
+
+
+
+
 * {
   margin: 0px;
   padding: 0px;
@@ -629,4 +640,3 @@ h3 {
     -webkit-transform: translateY(calc(100% - 42px));
   }
 }
-
