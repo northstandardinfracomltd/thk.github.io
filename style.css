@@ -166,7 +166,6 @@ body {
 /* Very light scaling for our illustration */
 img.combat {
   max-width: 200px;
-
 }
 
 img.iconcard {
@@ -206,6 +205,11 @@ img.brands {
   border-radius: 14px !important;
 
 }
+
+p.combat {
+  display: none;
+}
+
 
 /* Button - Add it from the README instructions */
 button,
@@ -253,6 +257,7 @@ main {
   /*Define our columns */
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
   grid-gap: 1em;
+  
 }
 
 purpleblocks {
@@ -266,6 +271,7 @@ purpleblocks {
 }
 
 article {
+    line-height: 0;
   border-radius: 10px;
   padding: 20px;
   color: #fff;
@@ -277,7 +283,7 @@ article:nth-child(odd) {
       font-size: 20px;
   padding-left: 20px !important;
     font-family: "Palatino";
-  line-height: 1.125;
+  line-height: 0;
   letter-spacing: -0.015em;
 }
 
@@ -360,11 +366,10 @@ article:nth-child(even) {
   padding-top: 24px;
   padding-bottom: 20px;
     font-family: "Saoecom3font" !important;
-  line-height: 1.125 !important;
+  line-height: 0 !important;
   letter-spacing: -0.000em !important;
     border: solid 1px #3f3351;
-  margin-bottom: -85px !important;
-
+  margin-bottom: 0px !important;
 }
 
 
