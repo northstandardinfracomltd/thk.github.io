@@ -16,7 +16,7 @@ to this section's matching END comment to see page-specific styles.
 
 /* Our default values set as CSS variables */
 :root {
-  --color-bg: #69F7BE;
+  --color-bg: #201d27;
   --color-text-main: #000000;
   --color-primary: #FFFF00;
   --wrapper-height: 87vh;
@@ -166,6 +166,11 @@ img.iconcard {
 
 }
 
+
+img.brands {
+  width: 100% !important;
+
+}
 
 /* Very light scaling for our illustration */
 .client {
@@ -335,17 +340,17 @@ article:nth-child(even) {
     font-family: "Palatino" !important;
   line-height: 1.125 !important;
   letter-spacing: -0.015em !important;
-    border: solid 4px transparent;
+    border: solid 1px #3f3351;
 }
 
-.cardservice1:hover {
+.cardservice1:focus {
   background-color: #241d2e !important;
       font-size: 24px !important;
   padding-left: 20px !important;
     font-family: "Palatino" !important;
   line-height: 1.125 !important;
   letter-spacing: -0.015em !important;
-    border: solid 4px red;
+    border: solid 1px red;
 }
 
 .cardservice {
