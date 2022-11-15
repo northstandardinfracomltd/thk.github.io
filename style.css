@@ -154,6 +154,12 @@ body {
     font-size: 40px !important;
 }
 
+/* Very light scaling for our illustration */
+img.combat {
+  max-width: 200px;
+}
+
+
 /* Instructions */
 .instructions {
   margin: 1rem auto 0;
@@ -223,3 +229,5 @@ article:nth-child(even) {
   background-color: #afbe29;
     font-size: 20px;
 }
+
+
