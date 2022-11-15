@@ -328,10 +328,30 @@ article:nth-child(even) {
   
 }
 
+.cardservice1 {
+  background-color: #241d2e !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+    font-family: "Palatino" !important;
+  line-height: 1.125 !important;
+  letter-spacing: -0.015em !important;
+    border: solid 4px transparent;
+}
+
+.cardservice1:hover {
+  background-color: #241d2e !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+    font-family: "Palatino" !important;
+  line-height: 1.125 !important;
+  letter-spacing: -0.015em !important;
+    border: solid 4px red;
+}
+
 .cardservice {
   border: solid 4px transparent;
-  
 }
+
 
 .cardservice:hover {
   border: solid 4px red;
