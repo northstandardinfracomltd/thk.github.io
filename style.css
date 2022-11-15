@@ -59,6 +59,12 @@ to this section's matching END comment to see page-specific styles.
   src: url("https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/sf-pro-display_medium.woff2?v=1668542716190")
     format("opentype");
 }
+@font-face {
+  font-family: Saoecom3font;
+  font-weight: bold;
+  src: url("https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/roboto-v20-latin-ext_latin-regular.woff2?v=1668543452232")
+    format("opentype");
+}
 
 /* Our remix on glitch button */
 .btn--remix {
@@ -351,9 +357,9 @@ article:nth-child(even) {
   background-color: #241d2e !important;
       font-size: 24px !important;
   padding-left: 20px !important;
-    font-family: "Saoecom2font" !important;
+    font-family: "Saoecom3font" !important;
   line-height: 1.125 !important;
-  letter-spacing: -0.015em !important;
+  letter-spacing: -0.000em !important;
     border: solid 1px #3f3351;
 }
 
