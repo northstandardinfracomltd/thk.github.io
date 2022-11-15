@@ -147,6 +147,13 @@ body {
   margin-top: var(--image-margin);
 }
 
+/* Very light scaling for our illustration */
+.iconcard {
+  max-width: 50px;
+  vertical-align: middle;
+    font-size: 40px !important;
+}
+
 /* Instructions */
 .instructions {
   margin: 1rem auto 0;
@@ -156,18 +163,19 @@ body {
 button,
 input {
   font-family: inherit;
-  font-size: 100%;
+  font-size: 40px;
   background: #FFFFFF;
   border: 1px solid #000000;
   box-sizing: border-box;
   border-radius: 4px;
   padding: 0.5rem 1rem;
   transition: 500ms;
+    color: red;
 }
 
 /* Subheading */
 h2 {
-  color: #2800FF;
+  color: red;
 }
 
 /* Interactive image */
@@ -181,4 +189,37 @@ h2 {
 */
 .dipped {
   transform: translateY(5px);
+}
+
+* {
+  box-sizing: border-box;
+}
+main {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 0 20px;
+  width: 100%; 
+  display: grid;
+  /* Define Auto Row size */
+  grid-auto-rows: 100px; 
+  /*Define our columns */
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
+  grid-gap: 1em;
+}
+
+article {
+  border-radius: 10px;
+  padding: 20px;
+  color: #fff;
+}
+
+article:nth-child(odd) {
+  background-color: #55BBE9;
+      font-size: 20px;
+  padding-left: 20px !important;
+}
+
+article:nth-child(even) {
+  background-color: #afbe29;
+    font-size: 20px;
 }
