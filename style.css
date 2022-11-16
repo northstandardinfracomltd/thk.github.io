@@ -860,7 +860,7 @@ footer {
   height: 60px;
   width: 100%;
   justify-content: space-between;
-  background: #1164a3;
+  background: linear-gradient(0.25turn, #4B3CC4, #27128E);
 
 }
 
@@ -869,8 +869,8 @@ footer {
   padding: 0 0px;
   font-size: 40px;
   line-height: 50px;
-  color: #FFF;
-  margin: 0px;
+  padding-top: -90px !important;
+  width: 120px !important;
 }
 
 .main-nav li
