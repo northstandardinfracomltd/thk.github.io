@@ -147,6 +147,33 @@ img.btnsub-icon {
     padding: 23px 30px 21px 34px !important;
 }
 
+.btnsub2 {
+    font-family: "Saoecom3font", Sans-serif;
+    font-size: 24px !important;
+    font-weight: 500 !important;
+    fill: #F996FF !important;
+    color: #F996FF !important;
+    background-color: #373756 !important;
+    border-radius: 14px 14px 15px 14px !important;
+    padding: 23px 30px 21px 34px !important;
+}
+
+
+img.btnsub2-icon {
+  width: 22px !important;
+  margin-bottom: -1px !important;
+}
+
+.btnsub2:hover {
+    font-family: "Saoecom3font", Sans-serif;
+    font-size: 24px !important;
+    font-weight: 500 !important;
+    fill: #F996FF !important;
+    color: #F996FF !important;
+    background-color: #313151 !important;
+    border-radius: 14px 14px 15px 14px !important;
+    padding: 23px 30px 21px 34px !important;
+}
 
 .btn--remix img {
   margin-right: 0.5rem;
@@ -352,7 +379,14 @@ img.brands {
 }
 }
 
-
+.entrance {
+      font-size: 22px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  color: #443e52 !important;
+  margin-bottom: 55px !important;
+}
 
 .pride {
         font-size: 30px !important;
@@ -830,7 +864,7 @@ footer {
 
 }
 
-.logo
+.navlogo
 {
   padding: 0 0px;
   font-size: 40px;
