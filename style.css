@@ -355,8 +355,8 @@ img.brands {
 
 
 .pride {
-        font-size: 26px !important;
-  color: #dcd1ed !important;
+        font-size: 30px !important;
+  color: #9778e1 !important;
   padding-left: 0px !important;
     padding-right: 20px !important;
     font-family: "Saoecom1font" !important;
@@ -368,10 +368,11 @@ img.brands {
 
 .pridesub {
       font-size: 22px !important;
-    font-family: "Saoecom3font" !important;
-  line-height: 1.4 !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
   letter-spacing: 0.01em !important;
   color: #443e52 !important;
+  margin-bottom: -14px !important;
 }
 
 
