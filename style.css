@@ -425,6 +425,118 @@ article:nth-child(even) {
 }
 
 .cardservice1 {
+  background-color: #9d91ff !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+  padding-top: 24px;
+  padding-bottom: 20px;
+    font-family: "Saoecom3font" !important;
+  line-height: 0 !important;
+  letter-spacing: 0.02em !important;
+    border: solid 1px #3f3351;
+  margin-bottom: 0px !important;
+  color: #9d91ff;
+}
+
+.cardservice2 {
+  background-color: #ff717a !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+  padding-top: 24px;
+  padding-bottom: 20px;
+    font-family: "Saoecom3font" !important;
+  line-height: 0 !important;
+  letter-spacing: 0.02em !important;
+    border: solid 1px #3f3351;
+  margin-bottom: 0px !important;
+  color: #ff717a;
+}
+
+.cardservice3 {
+  background-color: #6cd3ff !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+  padding-top: 24px;
+  padding-bottom: 20px;
+    font-family: "Saoecom3font" !important;
+  line-height: 0 !important;
+  letter-spacing: 0.02em !important;
+    border: solid 1px #3f3351;
+  margin-bottom: 0px !important;
+  color: #6cd3ff;
+}
+
+.cardservice4 {
+  background-color: #fff57b !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+  padding-top: 24px;
+  padding-bottom: 20px;
+    font-family: "Saoecom3font" !important;
+  line-height: 0 !important;
+  letter-spacing: 0.02em !important;
+    border: solid 1px #3f3351;
+  margin-bottom: 0px !important;
+  color: #fff57b;
+}
+
+.cardservice5 {
+  background-color: #7bffa4 !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+  padding-top: 24px;
+  padding-bottom: 20px;
+    font-family: "Saoecom3font" !important;
+  line-height: 0 !important;
+  letter-spacing: 0.02em !important;
+    border: solid 1px #3f3351;
+  margin-bottom: 0px !important;
+  color: #7bffa4;
+}
+
+.cardservice6 {
+  background-color: #ed9eff !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+  padding-top: 24px;
+  padding-bottom: 20px;
+    font-family: "Saoecom3font" !important;
+  line-height: 0 !important;
+  letter-spacing: 0.02em !important;
+    border: solid 1px #3f3351;
+  margin-bottom: 0px !important;
+  color: #ed9eff;
+}
+
+.cardservice7 {
+  background-color: #ed9eff !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+  padding-top: 24px;
+  padding-bottom: 20px;
+    font-family: "Saoecom3font" !important;
+  line-height: 0 !important;
+  letter-spacing: 0.02em !important;
+    border: solid 1px #3f3351;
+  margin-bottom: 0px !important;
+  color: #ed9eff;
+}
+
+.cardservice8 {
+  background-color: #fff57b !important;
+      font-size: 24px !important;
+  padding-left: 20px !important;
+  padding-top: 24px;
+  padding-bottom: 20px;
+    font-family: "Saoecom3font" !important;
+  line-height: 0 !important;
+  letter-spacing: 0.02em !important;
+    border: solid 1px #3f3351;
+  margin-bottom: 0px !important;
+  color: #fff57b;
+}
+
+.cardservice9 {
   background-color: #241d2e !important;
       font-size: 24px !important;
   padding-left: 20px !important;
@@ -435,6 +547,7 @@ article:nth-child(even) {
   letter-spacing: 0.02em !important;
     border: solid 1px #3f3351;
   margin-bottom: 0px !important;
+  color: #FFFFFF;
 }
 
 
