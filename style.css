@@ -99,7 +99,7 @@ to this section's matching END comment to see page-specific styles.
     border-radius: 11px 11px 11px 11px !important;
     padding: 23px 62px 22px 62px !important;
   margin-bottom: 12px !important; 
-    margin-top: 7px !important; 
+    margin-top: 19px !important; 
 }
 
 .btnblue:hover {
@@ -115,7 +115,7 @@ to this section's matching END comment to see page-specific styles.
     border-radius: 11px 11px 11px 11px !important;
     padding: 23px 62px 22px 62px !important;
   margin-bottom: 12px !important; 
-    margin-top: 7px !important; 
+    margin-top: 19px !important; 
 
 }
 
@@ -127,11 +127,14 @@ to this section's matching END comment to see page-specific styles.
     color: #F996FF !important;
     background-color: #373756 !important;
     border-radius: 14px 14px 15px 14px !important;
-    padding: 23px 25px 21px 34px !important;
+    padding: 23px 30px 21px 34px !important;
 }
 
 
-.
+img.btnsub-icon {
+  width: 22px !important;
+  margin-bottom: -1px !important;
+}
 
 .btnsub:hover {
     font-family: "Saoecom3font", Sans-serif;
@@ -141,7 +144,7 @@ to this section's matching END comment to see page-specific styles.
     color: #F996FF !important;
     background-color: #313151 !important;
     border-radius: 14px 14px 15px 14px !important;
-    padding: 23px 25px 21px 34px !important;
+    padding: 23px 30px 21px 34px !important;
 }
 
 
@@ -286,7 +289,7 @@ img.brands {
 
 
 .brunch {
-        font-size: 26px !important;
+        font-size: 30px !important;
   color: #dcd1ed;
   padding-left: 20px !important;
     padding-right: 20px !important;
