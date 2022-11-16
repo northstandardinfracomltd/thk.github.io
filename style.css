@@ -847,7 +847,19 @@ footer {
 	}
 }
 
+.football
+{
+  position: fixed;
+  display: flex;
+  box-sizing: border-box;
+  padding: 0 2.5%;
+  top: 0; left: 0; 
+  height: 55px;
+  width: 100%;
+  justify-content: space-between;
+  background: linear-gradient(0.25turn, #4B3CC4, #27128E);
 
+}
 
 
 .main-nav
