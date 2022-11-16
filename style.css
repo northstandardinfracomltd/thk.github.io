@@ -74,7 +74,7 @@ to this section's matching END comment to see page-specific styles.
   line-height: 1rem;
   font-weight: 500;
   height: 2.75rem;
-  align-items: center;
+  align-items: left;
   cursor: pointer;
   background: #FFFFFF;
   border: 1px solid #000000;
@@ -85,6 +85,33 @@ to this section's matching END comment to see page-specific styles.
   white-space: nowrap;
   margin-left: auto;
 }
+
+.btnblue {
+    font-family: "Saoecom3font", Sans-serif;
+    font-size: 24px !important;
+    font-weight: 500 !important;
+    fill: #FFFFFF !important;
+    color: #FFFFFF !important;
+    background-color: #1164A3 !important;
+    border-style: solid !important;
+    border-width: 1px 1px 1px 1px !important;
+    border-color: #1164A3 !important;
+    border-radius: 11px 11px 11px 11px !important;
+    padding: 23px 62px 22px 62px !important;
+}
+
+.btnsub {
+    font-family: "Saoecom3font", Sans-serif;
+    font-size: 24px !important;
+    font-weight: 500 !important;
+    fill: #F996FF !important;
+    color: #F996FF !important;
+    background-color: #373756 !important;
+    border-radius: 14px 14px 15px 14px !important;
+    padding: 23px 25px 21px 34px !important;
+}
+
+
 .btn--remix img {
   margin-right: 0.5rem;
 }
