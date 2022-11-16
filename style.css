@@ -965,7 +965,7 @@ img.navlogo {
   width: 150px !important;
 }
 
-.main-nav li
+.main-nav a
 {
   cursor: pointer;
   float: left;
