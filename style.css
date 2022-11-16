@@ -155,7 +155,7 @@ img.btnsub-icon {
     color: #F996FF !important;
     background-color: #373756 !important;
     border-radius: 14px 14px 15px 14px !important;
-    padding: 23px 30px 21px 34px !important;
+    padding: 23px 40px 21px 45px !important;
 }
 
 
@@ -172,7 +172,7 @@ img.btnsub2-icon {
     color: #F996FF !important;
     background-color: #313151 !important;
     border-radius: 14px 14px 15px 14px !important;
-    padding: 23px 30px 21px 34px !important;
+    padding: 23px 40px 21px 45px !important;
 }
 
 .btn--remix img {
@@ -857,20 +857,21 @@ footer {
   box-sizing: border-box;
   padding: 0 2.5%;
   top: 0; left: 0; 
-  height: 60px;
+  height: 55px;
   width: 100%;
   justify-content: space-between;
   background: linear-gradient(0.25turn, #4B3CC4, #27128E);
 
 }
 
+img.navlogo {
+  margin-top: -9px;
+}
+
 .navlogo
 {
-  padding: 0 0px;
-  font-size: 40px;
-  line-height: 50px;
-  padding-top: -90px !important;
-  width: 120px !important;
+  line-height: 10px;
+  width: 150px !important;
 }
 
 .main-nav li
@@ -878,12 +879,13 @@ footer {
   cursor: pointer;
   float: left;
   list-style: none;
-  height: 50px;
+  height: 0px;
   margin: 0 10px;
-  line-height: 50px;
-  color: #FFF;
-  font-weight: 700;
-
+  line-height: 25px;
+      font-size: 19px !important;
+    font-family: "Saoecom2font" !important;
+  letter-spacing: 0.02em !important;
+  color: #9d91ff !important;
 }
 
 
