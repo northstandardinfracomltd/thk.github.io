@@ -717,14 +717,14 @@ article:nth-child(even) {
   scroll-snap-align: center;
   inline-size: 100%;
   max-inline-size: 400px;
-  aspect-ratio: 7 / 9;
-  font-size: 2rem;
-  background: hotpink;
-  border-radius: 4px;
+  aspect-ratio: 10 / 14;
+  background: #241D2E;
+  border-radius: 14px;
   overflow: hidden;
-  margin-right: 10px;
+  margin-right: 20px;
     margin-top: 10px;
   margin-bottom: 10px;
+    border: solid 0px purple !important;
 
 }
 
@@ -847,19 +847,6 @@ footer {
 	}
 }
 
-.football
-{
-  position: fixed;
-  display: flex;
-  box-sizing: border-box;
-  padding: 0 2.5%;
-  top: 0; left: 0; 
-  height: 55px;
-  width: 100%;
-  justify-content: space-between;
-  background: linear-gradient(0.25turn, #4B3CC4, #27128E);
-
-}
 
 
 .main-nav
