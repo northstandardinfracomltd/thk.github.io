@@ -219,12 +219,15 @@ img.btnsub2-icon {
     background-color: #46ce7059 !important;
     border-radius: 14px 14px 15px 14px !important;
     padding: 23px 30px 21px 34px !important;
+  opacity: 1 !important;
 }
 
 
 img.btnsub-icon3 {
   width: 23px !important;
   margin-bottom: -1px !important;
+    opacity: 1 !important;
+
 }
 
 .btnsub3:hover {
@@ -236,6 +239,8 @@ img.btnsub-icon3 {
     background-color: #46ce7059 !important;
     border-radius: 14px 14px 15px 14px !important;
     padding: 23px 30px 21px 34px !important;
+    opacity: 1 !important;
+
 }
 .btn--remix img {
   margin-right: 0.5rem;
