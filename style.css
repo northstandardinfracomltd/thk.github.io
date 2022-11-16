@@ -180,9 +180,9 @@ img.btnsub2-icon {
     font-family: "Saoecom3font", Sans-serif;
     font-size: 24px !important;
     font-weight: 500 !important;
-    fill: #F996FF !important;
-    color: #F996FF !important;
-    background-color: #373756ab !important;
+    fill: #7bffa4 !important;
+    color: #7bffa4 !important;
+    background-color: #37375600 !important;
     border-radius: 14px 14px 15px 14px !important;
     padding: 23px 30px 21px 34px !important;
 }
@@ -197,9 +197,9 @@ img.btnsub-icon3 {
     font-family: "Saoecom3font", Sans-serif;
     font-size: 24px !important;
     font-weight: 500 !important;
-    fill: #F996FF !important;
-    color: #F996FF !important;
-    background-color: #313151 !important;
+    fill: #7bffa4 !important;
+    color: #7bffa4 !important;
+    background-color: #37375600 !important;
     border-radius: 14px 14px 15px 14px !important;
     padding: 23px 30px 21px 34px !important;
 }
@@ -772,7 +772,7 @@ article:nth-child(even) {
     margin-top: 10px;
   margin-bottom: 10px;
     border: solid 0px purple !important;
-opacity: 0.7 !important;
+opacity: 0.9 !important;
 }
 
 .gallery.alt-sizes .item.lg {
