@@ -182,8 +182,10 @@ img.btnsub-icon {
 }
 
 .btnsub2 {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 24px !important;
     font-weight: 500 !important;
     fill: #F996FF !important;
     color: #F996FF !important;
@@ -199,8 +201,9 @@ img.btnsub2-icon {
 }
 
 .btnsub2:hover {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
     font-weight: 500 !important;
     fill: #F996FF !important;
     color: #F996FF !important;
