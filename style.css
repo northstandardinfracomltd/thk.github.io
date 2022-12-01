@@ -87,8 +87,10 @@ to this section's matching END comment to see page-specific styles.
 }
 
 .btnblue {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 24px !important;
     font-weight: 500 !important;
     fill: #FFFFFF !important;
     color: #FFFFFF !important;
@@ -103,8 +105,10 @@ to this section's matching END comment to see page-specific styles.
 }
 
 .btnblue:hover {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 24px !important;
     font-weight: 500 !important;
     fill: #FFFFFF !important;
     color: #FFFFFF !important;
@@ -121,8 +125,10 @@ to this section's matching END comment to see page-specific styles.
 
 
 .btnblueshort {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 24px !important;
     font-weight: 500 !important;
     fill: #FFFFFF !important;
     color: #FFFFFF !important;
@@ -137,8 +143,10 @@ to this section's matching END comment to see page-specific styles.
 }
 
 .btnblueshort:hover {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 24px !important;
     font-weight: 500 !important;
     fill: #FFFFFF !important;
     color: #FFFFFF !important;
@@ -154,8 +162,10 @@ to this section's matching END comment to see page-specific styles.
 }
 
 .btnsub {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 24px !important;
     font-weight: 500 !important;
     fill: #F996FF !important;
     color: #F996FF !important;
@@ -171,8 +181,10 @@ img.btnsub-icon {
 }
 
 .btnsub:hover {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 24px !important;
     font-weight: 500 !important;
     fill: #F996FF !important;
     color: #F996FF !important;
@@ -214,8 +226,10 @@ img.btnsub2-icon {
 
 
 .btnsub3 {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 24px !important;
     font-weight: 500 !important;
     fill: #7bffa4 !important;
     color: #7bffa4 !important;
@@ -234,8 +248,10 @@ img.btnsub-icon3 {
 }
 
 .btnsub3:hover {
-    font-family: "Saoecom3font", Sans-serif;
-    font-size: 24px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 24px !important;
     font-weight: 500 !important;
     fill: #7bffa4 !important;
     color: #7bffa4 !important;
