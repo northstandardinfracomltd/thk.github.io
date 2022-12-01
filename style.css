@@ -189,7 +189,7 @@ img.btnsub-icon {
     color: #F996FF !important;
     background-color: #373756 !important;
     border-radius: 14px 14px 15px 14px !important;
-    padding: 23px 40px 21px 45px !important;
+    padding: 25px 43px 23px 45px !important;
 }
 
 
@@ -206,7 +206,7 @@ img.btnsub2-icon {
     color: #F996FF !important;
     background-color: #313151 !important;
     border-radius: 14px 14px 15px 14px !important;
-    padding: 23px 40px 21px 45px !important;
+    padding: 25px 43px 23px 45px !important;
 }
 
 
@@ -530,10 +530,10 @@ main {
   width: 100%; 
   display: grid;
   /* Define Auto Row size */
-  grid-auto-rows: 100px; 
+  grid-auto-rows: 90px; 
   /*Define our columns */
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
-  grid-gap: 1em;
+  grid-gap: 20px;
   
 }
 
@@ -654,9 +654,9 @@ article:nth-child(even) {
 .cardservice1 {
   background-color: #241d2e !important;
       font-size: 24px !important;
-  padding-left: 20px !important;
-  padding-top: 24px;
-  padding-bottom: 20px;
+  padding-left: 24px !important;
+  padding-top: 26px !important;
+  padding-bottom: 23px !important;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
   letter-spacing: 0.02em !important;
@@ -668,9 +668,9 @@ article:nth-child(even) {
 .cardservice2 {
   background-color: #241d2e !important;
       font-size: 24px !important;
-  padding-left: 20px !important;
-  padding-top: 24px;
-  padding-bottom: 20px;
+  padding-left: 24px !important;
+  padding-top: 26px !important;
+  padding-bottom: 23px !important;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
   letter-spacing: 0.02em !important;
@@ -682,9 +682,9 @@ article:nth-child(even) {
 .cardservice3 {
   background-color: #241d2e !important;
       font-size: 24px !important;
-  padding-left: 20px !important;
-  padding-top: 24px;
-  padding-bottom: 20px;
+  padding-left: 24px !important;
+  padding-top: 26px !important;
+  padding-bottom: 23px !important;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
   letter-spacing: 0.02em !important;
@@ -696,9 +696,9 @@ article:nth-child(even) {
 .cardservice4 {
   background-color: #241d2e !important;
       font-size: 24px !important;
-  padding-left: 20px !important;
-  padding-top: 24px;
-  padding-bottom: 20px;
+  padding-left: 24px !important;
+  padding-top: 26px !important;
+  padding-bottom: 23px !important;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
   letter-spacing: 0.02em !important;
@@ -710,9 +710,9 @@ article:nth-child(even) {
 .cardservice5 {
   background-color: #241d2e !important;
       font-size: 24px !important;
-  padding-left: 20px !important;
-  padding-top: 24px;
-  padding-bottom: 20px;
+  padding-left: 24px !important;
+  padding-top: 26px !important;
+  padding-bottom: 23px !important;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
   letter-spacing: 0.02em !important;
@@ -724,9 +724,9 @@ article:nth-child(even) {
 .cardservice6 {
   background-color: #241d2e !important;
       font-size: 24px !important;
-  padding-left: 20px !important;
-  padding-top: 24px;
-  padding-bottom: 20px;
+  padding-left: 24px !important;
+  padding-top: 26px !important;
+  padding-bottom: 23px !important;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
   letter-spacing: 0.02em !important;
@@ -738,9 +738,9 @@ article:nth-child(even) {
 .cardservice7 {
   background-color: #241d2e !important;
       font-size: 24px !important;
-  padding-left: 20px !important;
-  padding-top: 24px;
-  padding-bottom: 20px;
+  padding-left: 24px !important;
+  padding-top: 26px !important;
+  padding-bottom: 23px !important;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
   letter-spacing: 0.02em !important;
@@ -752,9 +752,9 @@ article:nth-child(even) {
 .cardservice8 {
   background-color: #241d2e !important;
       font-size: 24px !important;
-  padding-left: 20px !important;
-  padding-top: 24px;
-  padding-bottom: 20px;
+  padding-left: 24px !important;
+  padding-top: 26px !important;
+  padding-bottom: 23px !important;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
   letter-spacing: 0.02em !important;
@@ -766,9 +766,9 @@ article:nth-child(even) {
 .cardservice9 {
   background-color: #241d2e !important;
       font-size: 24px !important;
-  padding-left: 20px !important;
-  padding-top: 24px;
-  padding-bottom: 20px;
+  padding-left: 24px !important;
+  padding-top: 26px !important;
+  padding-bottom: 23px !important;
     font-family: "Saoecom3font" !important;
   line-height: 0 !important;
   letter-spacing: 0.02em !important;
