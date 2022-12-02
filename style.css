@@ -914,7 +914,7 @@ body {
 /* STRUCTURE */
 
 .wrapper {
-	padding: 5px;
+	padding: 0px;
 	max-width: 960px;
 	width: 95%;
 	margin: 20px auto;
