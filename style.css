@@ -934,7 +934,11 @@ header {
 	flex: 1;
 	border: 0px solid transparent;
 	margin: 2px;
-	padding: 10px;
+	padding-top: 10px;
+  	padding-bottom: 10px;
+	padding-right: 12px;
+	padding-left: 2px;
+
 	&:first-child { margin-left: 0; }
 	&:last-child { margin-right: 0; }
 	
