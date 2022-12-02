@@ -936,7 +936,7 @@ header {
 	margin: 2px;
 	padding-top: 10px;
   	padding-bottom: 10px;
-	padding-right: 12px;
+	padding-right: 15px;
 	padding-left: 2px;
 
 	&:first-child { margin-left: 0; }
