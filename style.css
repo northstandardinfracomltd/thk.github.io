@@ -382,6 +382,7 @@ margin-top: -2px !important;
 img.brands {
   width: 80% !important;
   padding-top: 20px;
+  padding-bottom: 20px !important;
 
 }
 
@@ -421,11 +422,11 @@ img.brands {
   color: #dcd1ed !important;
   padding-left: 200px !important;
     padding-right: 200px !important;
-  padding-top: 120px !important;
-  padding-bottom: -40px !important;
+  padding-top: 80px !important;
+  padding-bottom: 10px !important;
     font-family: "Saoecom1font" !important;
   letter-spacing: 0.02em !important;
-  margin-bottom: -40px !important;
+  margin-bottom: 93px !important;
   text-align: center !important;
   align-content: center !important;
   line-height: 40px !important;
@@ -546,7 +547,7 @@ h2 {
 main {
   max-width: 1200px;
   margin: 30px auto;
-  padding: 0 20px;
+  padding: 0 10px;
   width: 100%; 
   display: grid;
   /* Define Auto Row size */
@@ -560,7 +561,7 @@ main {
 purpleblocks {
   max-width: 1200px;
   margin: 30px auto;
-  padding: 0 20px;
+  padding: 0 10px;
   width: 100%; 
   display: grid;
   /*Define our columns */
