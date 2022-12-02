@@ -19,7 +19,6 @@ to this section's matching END comment to see page-specific styles.
   --color-bg: #201d27;
   --color-text-main: #000000;
   --color-primary: #FFFF00;
-  --wrapper-height: 87vh;
   --image-max-width: 300px;
   --image-margin: 3rem;
   --font-family: "HK Grotesk";
@@ -306,7 +305,9 @@ body {
   min-height: var(--wrapper-height);
   display: grid;
   place-items: center;
-  margin: 0 1rem;
+  margin-top: 90px !important;
+    margin-bottom: 130px !important;
+
 }
 .content {
   display: flex;
@@ -382,7 +383,7 @@ margin-top: -2px !important;
 img.brands {
   width: 80% !important;
   padding-top: 20px;
-  padding-bottom: 20px !important;
+  padding-bottom: 15px !important;
 
 }
 
