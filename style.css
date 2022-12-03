@@ -915,9 +915,6 @@ header {
 	
 }
 
-footer {
-	padding: 0 15px;
-}
 
 
 @media screen and (max-width: 980px) {
@@ -980,6 +977,7 @@ img.navlogo {
   letter-spacing: 0.02em !important;
   color: #9d91ff !important;
 }
+
 
 
 
