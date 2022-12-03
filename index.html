@@ -1,48 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--
-      If you look around here while digging into our code, you are probably interested in Saoecom's internals!
-      We invite you to apply spontaneously to join our team at about@saoecom.com
-      In your application, say that you saw the SaoeDruid take a mug of magic potion!
-    -->
-
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/FavSaoe.png?v=1669901302738" />
-
-    <!-- 
-      SAOECOM
-    -->
-
-    <title>Saoecom.com</title>
-
-    <!-- SAOECOM -->
-    <link rel="canonical" href="https://saoecom.com/" />
-    <meta
-      name="description"
-      content="Saoecom"
-    />
-    <meta name="robots" content="index,follow" />
-    <meta property="og:title" content="Saoecom.com" />
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://saoecom.com/" />
-    <meta
-      property="og:description"
-      content="Saoecom"
-    />
-    <meta
-      property="og:image"
-      content="https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/svg-gobbler%20(10).svg?v=1668526097737"
-    />
-    <meta name="twitter:card" content="summary" />
-
-    <!-- SAOECOM JS -->
-    <link rel="stylesheet" href="/style.css" />
-
-    <!-- SAOECOM JS -->
-    <script src="/script.js" defer></script>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ArtStudios</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
+  <body>
+    <!-- nav -->
+    <div id="nav" class="nav">
+      <img class="nav__logo" src="https://cdn.glitch.global/27de1a2e-a459-48ca-b7bb-6896814cd121/Art%20Studios%20SAOECOM.svg?v=1669632409730" alt="" />
+      <img class="nav__avatar" src="https://cdn.glitch.global/27de1a2e-a459-48ca-b7bb-6896814cd121/SAOECOM%20COM%20AVATAR.svg?v=1669633194381" alt="" />
+    </div>
+
+    <!-- header -->
+    <header class="banner">
+      <div class="banner__contents">
+        <h1 class="banner__title">Ultra exclusive drawing and printing services</h1>
+        <div class="banner__buttons">
+          <button class="banner__button">Order a draw</button>
+          <button class="banner__button">Print items PDF</button>
+        </div>
+        <h1 class="banner__description">
+          To carry out the biggest heist in history, a mysterious man called The Professor recruits
+          a band of eight robbers who have a single characteristic: n...
+        </h1>
+      </div>
+      <div class="banner--fadeBottom"></div>
+    </header>
+    
+    
+
+    <script>
+      const nav = document.getElementById('nav');
+      window.addEventListener('scroll', () => {
+        if (window.scrollY >= 100) {
+          nav.classList.add('nav__black');
+        } else {
+          nav.classList.remove('nav__black');
+        }
+      });
+    </script>
+    
+    
   <body>
     <!--
       BODY SAOECOM ONEPAGE
@@ -124,6 +125,8 @@
           <!-- SAOECOM -->
         </div>
     </purpleblocks>
+              
+              
               
     <main>
       
@@ -376,21 +379,6 @@
              
                 </purpleblocks>
 
-
-<nav class="main-nav">
-  <h1 class="logo" href="https://whereby.com/saoecom-onboarding"/>        <img
-             class="navlogo"
-          src="https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/svg-gobbler%20(10).svg?v=1668526097737"
-          alt=""
-        />
-     </h1>
-          
-  <ul href="mailto:about@saoecom.com">
-    <a class="navlin" href="mailto:about@saoecom.com" target="_blank">Share your brief</a>
-  </ul>
-</nav>
-
-    
     
     <!-- SAOECOM -->
     <footer class="footer">
