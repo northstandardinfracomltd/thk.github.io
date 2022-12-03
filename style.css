@@ -1,20 +1,5 @@
-/******************************************************************************
-START Glitch hello-app default styles
 
-The styles in this section do some minimal CSS resets, set default fonts and 
-colors, and handle the layout for our footer and "Remix on Glitch" button. If
-you're new to CSS they may seem a little complicated, but you can scroll down
-to this section's matching END comment to see page-specific styles.
-******************************************************************************/
-
-
-/* 
-  The style rules specify elements by type and by attributes such as class and ID
-  Each section indicates an element or elements, then lists the style properties to apply
-  See if you can cross-reference the rules in this file with the elements in index.html
-*/
-
-/* Our default values set as CSS variables */
+/* SAOECOM */
 :root {
   --color-bg: #201d27;
   --color-text-main: #000000;
@@ -25,7 +10,7 @@ to this section's matching END comment to see page-specific styles.
   --font-family-header: "HK Grotesk";
 }
 
-/* Basic page style resets */
+/* SAOECOM */
 * {
   box-sizing: border-box;
 }
@@ -33,7 +18,7 @@ to this section's matching END comment to see page-specific styles.
   display: none !important;
 }
 
-/* Import fonts */
+/* SAOECOM fonts */
 @font-face {
   font-family: HK Grotesk;
   src: url("https://cdn.glitch.global/b99994f5-4c44-4691-9f5c-108578f7e2e0/Charlie_Display-Semibold.woff2?v=1668542560529")
@@ -510,7 +495,7 @@ img.brands {
 
 
 
-/* Button - Add it from the README instructions */
+/* SAOECOM */
 button,
 input {
   font-family: inherit;
@@ -524,20 +509,17 @@ input {
     color: red;
 }
 
-/* Subheading */
+/* SAOECOM */
 h2 {
   color: blue;
 }
 
-/* Interactive image */
+/* SAOECOM*/
 .illustration:active {
   transform: translateY(5px);
 }
 
-/* Button dip
-- Toggling this class on and off will move it down and up again
-- The button transition property above determines the speed of the translate (500ms)
-*/
+/* SAOECOM */
 .dipped {
   transform: translateY(5px);
 }
@@ -590,17 +572,6 @@ article:nth-child(even) {
   background-color: #afbe29;
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
