@@ -382,7 +382,7 @@ margin-top: -2px !important;
 }
 
 img.clientlogo {
-  width: 230px !important;
+  width: 210px !important;
   padding-top: 50px;
   padding-bottom: 0px !important;
 
@@ -397,7 +397,7 @@ img.brands {
 
 @media screen and (max-width: 980px) {
   img.brands {
-		    width: 14% !important;
+		    width: 108% !important;
       padding-top: 10px;
 
 	}
@@ -405,7 +405,7 @@ img.brands {
 
 @media screen and (max-width: 680px) {
 	img.brands {
-		    width: 114% !important;
+		    width: 108% !important;
       padding-top: 10px;
 
 	}
