@@ -298,7 +298,7 @@ body {
   min-height: var(--wrapper-height);
   display: grid;
   place-items: center;
-  margin-top: 90px !important;
+  margin-top: 0px !important;
     margin-bottom: 130px !important;
 
 }
@@ -1181,13 +1181,12 @@ img.navlogo {
 
 /* banner */
 .banner {
-  background-image: url('https://cdn.glitch.global/8cbf6ac2-f9e2-4f94-b7d8-d17d6f831387/about-us3x__6e2eb6dd22261cd7772ab9e5fe20d17f.mp4?v=1670088621381');
+  background-image: url('https://cdn.glitch.global/8cbf6ac2-f9e2-4f94-b7d8-d17d6f831387/bg-stars-1.webp?v=1670084607138');
   background-size: cover;
-  background-position: top !important;
+  background-position: center !important;
   color: white;
   object-fit: contain;
-  height: 448px;
-
+  height: 550px;
 }
 
 .banner__contents {
@@ -1235,7 +1234,7 @@ img.navlogo {
 .banner--fadeBottom {
   margin-top: 145px;
   height: 7.4rem;
-  background-image: linear-gradient(180deg, transparent, rgba(37, 37, 37, 0.61), #111);
+  background-image: linear-gradient(180deg, transparent, #02040a, #02040a);
 }
 
 /* nav */
