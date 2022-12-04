@@ -1512,9 +1512,12 @@ img.navlogo {
 .btnsub1 {
     position: relative;
     display: inline-block;
-    padding: 5px 16px;
   
-  padding-top: 0px
+  padding-top: 5px !important;
+    padding-bottom: 8px !important;
+  padding-right: 16px !important;
+    padding-left: 16px !important;
+
     font-size: 15px;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
@@ -1541,16 +1544,27 @@ img.btnsub-icon1 {
 }
 
 .btnsub1:hover {
-    font-family: "Saoecom2font" !important;
-  line-height: 1.5 !important;
-  letter-spacing: 0.01em !important;
-  font-size: 25px !important;
-    font-weight: 500 !important;
-    fill: #F996FF !important;
-    color: #F996FF !important;
-    background-color: #313151 !important;
-    border-radius: 14px 14px 15px 14px !important;
-padding: 22px 38px 20px 38px !important;
+    position: relative;
+    display: inline-block;
+  
+  padding-top: 5px !important;
+    padding-bottom: 8px !important;
+  padding-right: 16px !important;
+    padding-left: 16px !important;
+
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(240 246 252 / 10%);
+    border-radius: 6px;
+      font-family: "Saoecom2font" !important;
+    color: #fff !important;
+    background-color: #238636;
 }
 
 
