@@ -612,23 +612,39 @@ img.brands3 {
 
 .pride {
         font-size: 30px !important;
-  color: #9778e1 !important;
+  color: #58a6ff !important;
   padding-left: 0px !important;
     padding-right: 20px !important;
-    font-family: "Saoecom1font" !important;
+    font-family: "Saoecom2font" !important;
   letter-spacing: 0.02em !important;
   text-align: left;
   line-height: 40px;
+
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, dodgerblue, purple, red);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 
 .pridesub {
-      font-size: 22px !important;
+      font-size: 16px !important;
     font-family: "Saoecom2font" !important;
-  line-height: 1.5 !important;
+  line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: #443e52 !important;
-  margin-bottom: -14px !important;
+  color: #8b949e !important;
+  margin-bottom: 12px !important;
+  text-align: left !important;
+  padding-bottom: 11px !important;
+  padding-right: 10px !important;
 }
 
 .pridesubfooter {
@@ -1395,7 +1411,7 @@ img.navlogo {
 
 .price-option__detail {
   padding: 2em 0;
-  background: white;
+  background: #161b22 !important;
   text-align: center;
 }
 
@@ -1410,13 +1426,13 @@ img.navlogo {
 
 .price-option__cost {
   font-size: 1.5em;
-  color: #383838;
+  color: #c9d1d9 !important;
 }
 
 .price-option__type {
   font-size: .7em;
   text-transform: uppercase;
-  color: #909090;
+  color: #58a6ff !important;
 }
 
 .price-option__purchase {
