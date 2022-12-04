@@ -615,7 +615,7 @@ img.brands3 {
     font-family: "Saoecom2font" !important;
   line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: #8b949e !important;
+  color: #ff96b2 !important;
   margin-bottom: 12px !important;
   text-align: center !important;
   margin-right:  9% !important;
@@ -631,7 +631,7 @@ img.brands3 {
     font-family: "Saoecom2font" !important;
   line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: #8b949e !important;
+  color: #ced3ffff !important;
   margin-bottom: 12px !important;
   text-align: center !important;
   margin-right:  9% !important;
@@ -1510,22 +1510,34 @@ img.navlogo {
 
 
 .btnsub1 {
-    font-family: "Saoecom2font" !important;
-  line-height: 1.5 !important;
-  letter-spacing: 0.01em !important;
-  font-size: 25px !important;
-    font-weight: 500 !important;
-    fill: #F996FF !important;
-    color: #F996FF !important;
-    background-color: #FFCAD9FF !important;
-    border-radius: 14px 14px 15px 14px !important;
-padding: 22px 38px 20px 38px !important;
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+  
+  padding-top: 0px
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(240 246 252 / 10%);
+    border-radius: 6px;
+      font-family: "Saoecom2font" !important;
+    color: #fff !important;
+    background-color: #238636;
 }
 
 
 img.btnsub-icon1 {
-  width: 23px !important;
-  margin-bottom: -1px !important;
+  width: 18px !important;
+  margin-top: 4px !important;
+    margin-bottom: -2px !important;
+    margin-left: 2px !important;
+
+
 }
 
 .btnsub1:hover {
