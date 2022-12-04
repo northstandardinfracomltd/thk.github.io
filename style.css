@@ -436,8 +436,10 @@ img.brands {
 
 img.brands1 {
   width: 100% !important;
-  padding-top: 20px;
+  padding-top: 35px;
   padding-bottom: 0px !important;
+  margin-bottom: -3px !important;
+    border-radius: 3px 3px 3px 3px !important;
 
 }
 
@@ -456,6 +458,72 @@ img.brands1 {
 
 	}
 }
+
+
+
+
+
+
+
+
+img.brands2 {
+  width: 100% !important;
+  padding-top: 35px;
+  padding-bottom: 0px !important;
+  margin-bottom: -3px !important;
+    border-radius: 3px 3px 3px 3px !important;
+
+}
+
+@media screen and (max-width: 980px) {
+  img.brands2 {
+		    width: 100% !important;
+      padding-top: 10px;
+
+	}
+}
+
+@media screen and (max-width: 680px) {
+	img.brands2 {
+		    width: 100% !important;
+      padding-top: 10px;
+
+	}
+}
+
+
+
+
+
+
+
+
+
+img.brands3 {
+  width: 100% !important;
+  padding-top: 35px;
+  padding-bottom: 0px !important;
+  margin-bottom: -3px !important;
+    border-radius: 3px 3px 3px 3px !important;
+
+}
+
+@media screen and (max-width: 980px) {
+  img.brands3 {
+		    width: 100% !important;
+      padding-top: 10px;
+
+	}
+}
+
+@media screen and (max-width: 680px) {
+	img.brands3 {
+		    width: 100% !important;
+      padding-top: 10px;
+
+	}
+}
+
 
 
 
@@ -1514,18 +1582,18 @@ padding: 22px 38px 20px 38px !important;
 
 .column2 {
 	flex: 1;
-	border: 0px solid transparent;
+	border: 1px solid #21262d !important;
+  border-radius: 4px !important;
 	margin-left: 2px;
   	margin-top: 2px;
 	margin-bottom: 2px;
   	margin-right: 10px;
 	padding-top: 10px;
-  	padding-bottom: 10px;
-	padding-right: 20px;
-	padding-left: 2px;
-  background: blue !important;
+  	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+  background: #0d1116 !important;
     text-align: center !important;
-
 
 	&:first-child { margin-left: 0; }
 	&:last-child { margin-right: 0; }
@@ -1561,17 +1629,18 @@ padding: 22px 38px 20px 38px !important;
 
 .column3 {
 	flex: 1;
-	border: 0px solid transparent;
+	border: 1px solid #21262d !important;
+  border-radius: 4px !important;
 	margin-left: 2px;
   	margin-top: 2px;
 	margin-bottom: 2px;
-  	margin-right: 0px;
+  	margin-right: 10px;
 	padding-top: 10px;
-  	padding-bottom: 10px;
-	padding-right: 2px;
-	padding-left: 2px;
-  background: yellow !important;
-  text-align: center !important;
+  	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+  background: #0d1116 !important;
+    text-align: center !important;
 
 	&:first-child { margin-left: 0; }
 	&:last-child { margin-right: 0; }
