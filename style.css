@@ -211,41 +211,51 @@ img.btnsub2-icon {
 
 
 .btnsub3 {
-    font-family: "Saoecom2font" !important;
-  line-height: 1.5 !important;
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(240 246 252 / 10%);
+    border-radius: 6px;
+    -webkit-appearance: none;
+    appearance: none;
+      font-family: "Saoecom2font" !important;
   letter-spacing: 0.01em !important;
-  font-size: 25px !important;
-    font-weight: 500 !important;
-    fill: #7bffa4 !important;
-    color: #7bffa4 !important;
-    background-color: #46ce7059 !important;
-    border-radius: 14px 14px 15px 14px !important;
-padding: 22px 38px 20px 38px !important;
-  opacity: 1 !important;
-}
-
-
-img.btnsub-icon3 {
-  width: 23px !important;
-  margin-bottom: -1px !important;
-    opacity: 1 !important;
-
+    color: #57a6ff !important;
+    background-color: #21262d !important;
 }
 
 .btnsub3:hover {
-    font-family: "Saoecom2font" !important;
-  line-height: 1.5 !important;
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(240 246 252 / 10%);
+    border-radius: 6px;
+    -webkit-appearance: none;
+    appearance: none;
+      font-family: "Saoecom2font" !important;
   letter-spacing: 0.01em !important;
-  font-size: 25px !important;
-    font-weight: 500 !important;
-    fill: #7bffa4 !important;
-    color: #7bffa4 !important;
-    background-color: #46ce7059 !important;
-    border-radius: 14px 14px 15px 14px !important;
-padding: 22px 38px 20px 38px !important;
-    opacity: 1 !important;
-
+    color: #57a6ff !important;
+    background-color: #22272e !important;
 }
+
+
+
 .btn--remix img {
   margin-right: 0.5rem;
 }
