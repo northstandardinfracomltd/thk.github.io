@@ -1372,3 +1372,152 @@ img.btnsub-icon1 {
     border-radius: 14px 14px 15px 14px !important;
 padding: 22px 38px 20px 38px !important;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.column1 {
+	flex: 1;
+	border: 0px solid transparent;
+	margin-left: 2px;
+  	margin-top: 2px;
+	margin-bottom: 2px;
+  	margin-right: 10px;
+	padding-top: 10px;
+  	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 2px;
+  background: red !important;
+    text-align: center !important;
+
+	&:first-child { margin-left: 0; }
+	&:last-child { margin-right: 0; }
+	
+}
+
+
+
+@media screen and (max-width: 980px) {
+  .columns1 .column1 {
+		margin-bottom: 5px;
+    flex-basis: 40%;
+		&:nth-last-child(2) {
+			margin-right: 0;
+		}
+		&:last-child {
+			flex-basis: 100%;
+			margin: 0;
+		}
+	}
+}
+
+@media screen and (max-width: 680px) {
+	.columns1 .column1 {
+		flex-basis: 100%;
+		margin: 0 0 5px 0;
+	}
+}
+
+
+
+
+
+.column2 {
+	flex: 1;
+	border: 0px solid transparent;
+	margin-left: 2px;
+  	margin-top: 2px;
+	margin-bottom: 2px;
+  	margin-right: 10px;
+	padding-top: 10px;
+  	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 2px;
+  background: blue !important;
+    text-align: center !important;
+
+
+	&:first-child { margin-left: 0; }
+	&:last-child { margin-right: 0; }
+	
+}
+
+
+
+@media screen and (max-width: 980px) {
+  .columns2 .column2 {
+		margin-bottom: 5px;
+    flex-basis: 40%;
+		&:nth-last-child(2) {
+			margin-right: 0;
+		}
+		&:last-child {
+			flex-basis: 100%;
+			margin: 0;
+		}
+	}
+}
+
+@media screen and (max-width: 680px) {
+	.columns2 .column2 {
+		flex-basis: 100%;
+		margin: 0 0 5px 0;
+	}
+}
+
+
+
+
+
+.column3 {
+	flex: 1;
+	border: 0px solid transparent;
+	margin-left: 2px;
+  	margin-top: 2px;
+	margin-bottom: 2px;
+  	margin-right: 0px;
+	padding-top: 10px;
+  	padding-bottom: 10px;
+	padding-right: 2px;
+	padding-left: 2px;
+  background: yellow !important;
+  text-align: center !important;
+
+	&:first-child { margin-left: 0; }
+	&:last-child { margin-right: 0; }
+	
+}
+
+
+
+@media screen and (max-width: 980px) {
+  .columns3 .column3 {
+		margin-bottom: 5px;
+    flex-basis: 40%;
+		&:nth-last-child(2) {
+			margin-right: 0;
+		}
+		&:last-child {
+			flex-basis: 100%;
+			margin: 0;
+		}
+	}
+}
+
+@media screen and (max-width: 680px) {
+	.columns3 .column3 {
+		flex-basis: 100%;
+		margin: 0 0 5px 0;
+	}
+}
