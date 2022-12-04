@@ -368,18 +368,37 @@ margin-top: -2px !important;
   border-radius: 14px !important;
 }
 
+.combat1 {
+  background: #FFCAD9FF;
+  width: 100%;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+    padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 14px !important;
+}
+
+img.clientlogo {
+  width: 230px !important;
+  padding-top: 50px;
+  padding-bottom: 0px !important;
+
+}
 
 img.brands {
-  width: 80% !important;
+  width: 90% !important;
   padding-top: 20px;
-  padding-bottom: 15px !important;
+  padding-bottom: 0px !important;
 
 }
 
 @media screen and (max-width: 980px) {
   img.brands {
 		    width: 105% !important;
-      padding-top: 20px;
+      padding-top: 0px;
 
 	}
 }
@@ -387,7 +406,7 @@ img.brands {
 @media screen and (max-width: 680px) {
 	img.brands {
 		    width: 105% !important;
-      padding-top: 20px;
+      padding-top: 2px;
 
 	}
 }
