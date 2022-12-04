@@ -224,12 +224,9 @@ img.btnsub2-icon {
     user-select: none;
     border: 1px solid rgb(240 246 252 / 10%);
     border-radius: 6px;
-    -webkit-appearance: none;
-    appearance: none;
       font-family: "Saoecom2font" !important;
-  letter-spacing: 0.01em !important;
     color: #57a6ff !important;
-    background-color: #21262d !important;
+    background-color: #21262d;
 }
 
 .btnsub3:hover {
@@ -246,12 +243,9 @@ img.btnsub2-icon {
     user-select: none;
     border: 1px solid rgb(240 246 252 / 10%);
     border-radius: 6px;
-    -webkit-appearance: none;
-    appearance: none;
       font-family: "Saoecom2font" !important;
-  letter-spacing: 0.01em !important;
     color: #57a6ff !important;
-    background-color: #22272e !important;
+    background-color: #262b30;
 }
 
 
@@ -435,6 +429,39 @@ img.brands {
 }
 
 
+
+
+
+
+
+img.brands1 {
+  width: 100% !important;
+  padding-top: 20px;
+  padding-bottom: 0px !important;
+
+}
+
+@media screen and (max-width: 980px) {
+  img.brands1 {
+		    width: 100% !important;
+      padding-top: 10px;
+
+	}
+}
+
+@media screen and (max-width: 680px) {
+	img.brands1 {
+		    width: 100% !important;
+      padding-top: 10px;
+
+	}
+}
+
+
+
+
+
+
 .brunch {
         font-size: 30px !important;
   color: #dcd1ed;
@@ -500,15 +527,19 @@ img.brands {
 }
 
 .entrance {
-      font-size: 22px !important;
+      font-size: 16px !important;
     font-family: "Saoecom2font" !important;
-  line-height: 1.5 !important;
+  line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: #443e52 !important;
-  margin-bottom: 7px !important;
+  color: #8b949e !important;
+  margin-bottom: 12px !important;
   text-align: center !important;
-  margin-right:  5% !important;
-  margin-left: 5% !important;
+  margin-right:  9% !important;
+  margin-left: 9% !important;
+  padding-bottom: 11px !important;
+    padding-top: 6px !important;
+
+  
 }
 
 .pride {
@@ -1443,9 +1474,9 @@ padding: 22px 38px 20px 38px !important;
 	margin-bottom: 2px;
   	margin-right: 10px;
 	padding-top: 10px;
-  	padding-bottom: 10px;
-	padding-right: 20px;
-	padding-left: 2px;
+  	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
   background: #0d1116 !important;
     text-align: center !important;
 
