@@ -389,7 +389,7 @@ img.clientlogo {
 }
 
 img.brands {
-  width: 90% !important;
+  width: 95% !important;
   padding-top: 20px;
   padding-bottom: 0px !important;
 
@@ -397,16 +397,16 @@ img.brands {
 
 @media screen and (max-width: 980px) {
   img.brands {
-		    width: 105% !important;
-      padding-top: 0px;
+		    width: 14% !important;
+      padding-top: 10px;
 
 	}
 }
 
 @media screen and (max-width: 680px) {
 	img.brands {
-		    width: 105% !important;
-      padding-top: 2px;
+		    width: 114% !important;
+      padding-top: 10px;
 
 	}
 }
@@ -482,7 +482,10 @@ img.brands {
   line-height: 1.5 !important;
   letter-spacing: 0.01em !important;
   color: #443e52 !important;
-  margin-bottom: 55px !important;
+  margin-bottom: 7px !important;
+  text-align: center !important;
+  margin-right:  5% !important;
+  margin-left: 5% !important;
 }
 
 .pride {
@@ -1322,3 +1325,37 @@ img.navlogo {
 .price-option--low .price-option__purchase:before  { border-color: transparent transparent #a7d155; }
 .price-option--mid .price-option__purchase:before  { border-color: transparent transparent #eada42; }
 .price-option--high .price-option__purchase:before { border-color: transparent transparent #e54e4b; }
+
+
+
+.btnsub1 {
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 25px !important;
+    font-weight: 500 !important;
+    fill: #F996FF !important;
+    color: #F996FF !important;
+    background-color: #FFCAD9FF !important;
+    border-radius: 14px 14px 15px 14px !important;
+padding: 22px 38px 20px 38px !important;
+}
+
+
+img.btnsub-icon1 {
+  width: 23px !important;
+  margin-bottom: -1px !important;
+}
+
+.btnsub1:hover {
+    font-family: "Saoecom2font" !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0.01em !important;
+  font-size: 25px !important;
+    font-weight: 500 !important;
+    fill: #F996FF !important;
+    color: #F996FF !important;
+    background-color: #313151 !important;
+    border-radius: 14px 14px 15px 14px !important;
+padding: 22px 38px 20px 38px !important;
+}
