@@ -1865,6 +1865,14 @@ img.btnsubfooter-icon1 {
 }
 
 
+.Hey {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  text-align: left !important;
+}
+
+
+
 
 
 
@@ -1906,6 +1914,11 @@ img.btnsubfooter-icon1 {
 
 img.tadaX {
       width: 80px !important;
+  margin-top: 60px !important;
+}
+
+img.coloredlogo {
+      width: 300px !important;
   margin-top: 60px !important;
 }
 
