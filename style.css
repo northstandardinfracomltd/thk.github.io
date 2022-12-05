@@ -1349,6 +1349,7 @@ img.navlogo {
 .footer address {
   font-style: normal;
   color: #999;
+  margin-top: 12px;
 }
 
 .footer__btn {
@@ -1647,7 +1648,7 @@ img.btnsub-icon1 {
       font-family: "Saoecom2font" !important;
     color: #fff !important;
     background-color: #238636;
-    margin-top: 10px
+    margin-top: 15px !important; 
 }
 
 
@@ -1660,7 +1661,7 @@ img.btnsubfooter-icon1 {
 
 }
 
-.btnsubfooter:hover {
+.btnsubfooter:hover  {
     position: relative;
     display: inline-block;
   
@@ -1681,7 +1682,8 @@ img.btnsubfooter-icon1 {
     border-radius: 6px;
       font-family: "Saoecom2font" !important;
     color: #fff !important;
-    background-color: #2a923e;
+    background-color: #238636;
+    margin-top: 15px !important; 
 }
 
 
