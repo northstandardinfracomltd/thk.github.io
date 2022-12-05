@@ -269,7 +269,7 @@ a:not(.btn--remix):visited {
   border-style: none;
 }
 .footer a:hover {
-  background: var(--color-primary);
+  background: transparent;
 }
 
 .footer .links {
@@ -1647,6 +1647,7 @@ img.btnsub-icon1 {
       font-family: "Saoecom2font" !important;
     color: #fff !important;
     background-color: #238636;
+    margin-top: 10px
 }
 
 
