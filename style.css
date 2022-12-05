@@ -299,7 +299,7 @@ body {
   display: grid;
   place-items: center;
   margin-top: 0px !important;
-    margin-bottom: 130px !important;
+    margin-bottom: 10px !important;
 
 }
 .content {
@@ -1186,7 +1186,7 @@ img.navlogo {
   background-position: center !important;
   color: white;
   object-fit: contain;
-  height: 550px;
+  height: 500px;
   width: 100%;
   overflow: hidden;
 }
@@ -1203,6 +1203,7 @@ img.navlogo {
   padding-bottom: 0.3rem;
  margin-right: 60px !important;
       font-family: "Saoecom2font" !important;
+    max-width: 100%;
 }
 
 .banner__description {
