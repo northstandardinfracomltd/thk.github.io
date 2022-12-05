@@ -707,7 +707,26 @@ input {
 
 /* SAOECOM */
 h2 {
-  color: red;
+        font-size: 30px !important;
+  color: #58a6ff !important;
+  padding-left: 0px !important;
+    padding-right: 20px !important;
+  padding-top: 20px !important;
+  margin-top: 12px !important;
+    font-family: "Saoecom2font" !important;
+  letter-spacing: 0.02em !important;
+  text-align: left;
+  line-height: 40px;
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, dodgerblue, purple, red);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+    margin: 0;
+    top: 50%;
+    left: 50%;
 }
 
 /* SAOECOM*/
@@ -1251,6 +1270,12 @@ img.navlogo {
   object-fit: contain;
 }
 
+
+.nav__logoF {
+  width: 110px;
+  object-fit: contain;
+}
+
 .nav__avatar {
   width: 40px;
   object-fit: contain;
@@ -1711,8 +1736,8 @@ img.btnsub-icon1 {
   border-radius: 4px !important;
 	margin-left: 2px;
   	margin-top: 2px;
-	margin-bottom: 2px;
-  	margin-right: 0px;
+	margin-bottom: 10px;
+  	margin-right: 10px;
 	padding-top: 10px;
   	padding-bottom: 0px;
 	padding-right: 0px;
