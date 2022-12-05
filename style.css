@@ -1187,6 +1187,8 @@ img.navlogo {
   color: white;
   object-fit: contain;
   height: 550px;
+  width: 100%;
+  overflow: hidden;
 }
 
 .banner__contents {
@@ -1199,6 +1201,7 @@ img.navlogo {
   font-size: 3rem;
   font-weight: 800;
   padding-bottom: 0.3rem;
+ margin-right: 60px !important;
 }
 
 .banner__description {
