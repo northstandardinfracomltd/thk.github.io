@@ -1770,14 +1770,15 @@ img.tadaX {
 
 
 table {
-  border: 1px solid #ccc;
-  border-collapse: collapse;
+	border: 1px solid #21262d !important;
+  border-radius: 4px !important;
   table-layout: fixed;
   width: 93%;
   text-align: center;
   margin-bottom: 50px !important;
   margin-left: auto !important;
   margin-right: auto !important;
+  background: #0d1116 !important;
 }
 table caption {
   font-size: 1.5em;
@@ -1788,7 +1789,7 @@ table tr {
   padding: .35em;
 }
 table tr:nth-child(even) {
-  background: #f8f8f8;  
+  background: rgb(56 139 253 / 15%);  
 }
 table th,
 table td {
