@@ -250,6 +250,97 @@ img.btnsub2-icon {
 
 
 
+
+
+
+
+.btnsub3E {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(240 246 252 / 10%);
+    border-radius: 6px;
+      font-family: "Saoecom2font" !important;
+    color: #57a6ff !important;
+    background-color: #21262d;
+  
+  margin-bottom: 20px !important
+}
+
+.btnsub3E:hover {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(240 246 252 / 10%);
+    border-radius: 6px;
+      font-family: "Saoecom2font" !important;
+    color: #57a6ff !important;
+    background-color: #262b30;
+}
+
+
+
+.btnsub3Efull {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(240 246 252 / 10%);
+    border-radius: 6px;
+      font-family: "Saoecom2font" !important;
+    color: #57a6ff !important;
+    background-color: #21262d;
+  width: 100% !important;
+  margin-bottom: 20px !important;
+    margin-left: 20px !important;
+  margin-right: 20px !important;
+  text-align: center;
+}
+
+.btnsub3Efull:hover {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(240 246 252 / 10%);
+    border-radius: 6px;
+      font-family: "Saoecom2font" !important;
+    color: #57a6ff !important;
+    background-color: #262b30;
+}
+
+
+
 .btn--remix img {
   margin-right: 0.5rem;
 }
@@ -1648,7 +1739,9 @@ img.btnsub-icon1 {
     color: #fff !important;
     background-color: #238636;
   
-    margin-left: 60px !important;
+    margin-left: 20px !important;
+    margin-bottom: 20px !important;
+
 }
 
 
@@ -2004,7 +2097,7 @@ img.btnsubfooter-icon1 {
 	margin-left: 2px;
   margin-top: 2px;
 	margin-bottom: 10px;
-  margin-right: 10px;
+  margin-right: 20px;
 	padding-top: 10px;
   padding-bottom: 0px;
 	padding-right: 0px;
