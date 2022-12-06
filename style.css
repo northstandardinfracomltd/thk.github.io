@@ -381,7 +381,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: #666;
   padding: 0px !important;
-  margin: 0px !important
+  margin: 0px !important;
+  overflow-x: hidden;
 }
 
 /* Page structure */
@@ -2025,7 +2026,7 @@ img.btnsubfooter-icon1 {
 	flex-flow: row wrap;
 	justify-content: center;
 	margin-top: 60px;
-  margin-bottom: 65px;
+  margin-bottom: 1px;
 	margin-right: 0px;
 	margin-left: 0px;
   background: #02040a !important;
