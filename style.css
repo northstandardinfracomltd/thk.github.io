@@ -1621,6 +1621,75 @@ img.btnsub-icon1 {
 
 
 
+
+
+
+
+.btnsub1E {
+    position: relative;
+    display: inline-block;
+  
+    padding-top: 5px !important;
+    padding-bottom: 8px !important;
+    padding-right: 16px !important;
+    padding-left: 16px !important;
+
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(30 111 45);
+    border-radius: 6px;
+    font-family: "Saoecom2font" !important;
+    color: #fff !important;
+    background-color: #238636;
+  
+    margin-left: 60px !important;
+}
+
+
+img.btnsub-icon1E {
+  width: 18px !important;
+  margin-top: 4px !important;
+    margin-bottom: -2px !important;
+    margin-left: 2px !important;
+
+
+}
+
+.btnsub1E:hover {
+    position: relative;
+    display: inline-block;
+  
+  padding-top: 5px !important;
+    padding-bottom: 8px !important;
+  padding-right: 16px !important;
+    padding-left: 16px !important;
+
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(30 111 45);
+    border-radius: 6px;
+      font-family: "Saoecom2font" !important;
+    color: #fff !important;
+    background-color: #2a923e;
+}
+
+
+
+
+
+
 .btnsubfooter {
     position: relative;
     display: inline-block;
@@ -1863,17 +1932,17 @@ img.btnsubfooter-icon1 {
 	flex-flow: row wrap;
 	justify-content: center;
 	margin-top: 60px;
-  	margin-bottom: 65px;
+  margin-bottom: 65px;
 	margin-right: 0px;
 	margin-left: 0px;
   background: #02040a !important;
-  	border: 1px solid #21262d !important;
+  border: 1px solid #21262d !important;
   border-radius: 4px !important;
   
-  padding-top: 10px;
+  padding-top: 25px;
   padding-bottom: 10px;
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
 }
 
 .columnE3 {
@@ -1889,7 +1958,7 @@ img.btnsubfooter-icon1 {
 	padding-right: 0px;
 	padding-left: 0px;
   background: #161b22 !important;
-    text-align: center !important;
+  text-align: left !important;
 
 	&:first-child { margin-left: 0; }
 	&:last-child { margin-right: 0; }
@@ -1941,7 +2010,7 @@ img.btnsubfooter-icon1 {
 	padding-right: 0px;
 	padding-left: 0px;
   background: #02040a !important;
-    text-align: center !important;
+  text-align: left !important;
 
 	&:first-child { margin-left: 0; }
 	&:last-child { margin-right: 0; }
@@ -2017,15 +2086,15 @@ img.btnsubfooter-icon1 {
 
 
 .prideE {
-        font-size: 24px !important;
+  font-size: 24px !important;
   color: #58a6ff !important;
   padding-left: 0px !important;
-    padding-right: 20px !important;
+  padding-right: 20px !important;
   padding-top: 10px !important;
   margin-top: 1px !important;
-    font-family: "Saoecom2font" !important;
+  font-family: "Saoecom2font" !important;
   letter-spacing: 0.02em !important;
-  text-align: center;
+  text-align: left;
   line-height: 30px;
     background-color: #f3ec78;
     background-image: linear-gradient(45deg, dodgerblue, purple, red);
@@ -2040,6 +2109,35 @@ img.btnsubfooter-icon1 {
    margin-left: 25px !important;
   margin-right: 25px !important;
 }
+
+.pridesubXE {
+      font-size: 16px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: #8b949e !important;
+  margin-bottom: 24px !important;
+  text-align: left !important;
+  padding-bottom: 0px !important;
+  padding-right: 2px !important;
+  margin-left: 25px !important;
+  margin-right: 25px !important;
+}
+
+.pridesubXE2 {
+      font-size: 12px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.4 !important;
+  letter-spacing: 0.01em !important;
+  color: #343e4d !important;
+  margin-bottom: 24px !important;
+  text-align: left !important;
+  padding-bottom: 0px !important;
+  padding-right: 2px !important;
+  margin-left: 25px !important;
+  margin-right: 25px !important;
+}
+
 
 
 .pridesubX {
