@@ -295,6 +295,46 @@ img.btnsub2-icon {
 }
 
 
+.btnsub3Eso {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(99 165 255 / 26%);
+    border-radius: 6px;
+    font-family: "Saoecom2font" !important;
+    color: #95c7ff !important;
+    background-color: rgb(56 139 253 / 16%);
+    margin-bottom: 20px !important
+}
+
+.btnsub3Eso:hover {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(99 165 255 / 58%);
+    border-radius: 6px;
+    font-family: "Saoecom2font" !important;
+    color: #95c7ff !important;
+    background-color: rgb(56 139 253 / 32%);
+    margin-bottom: 20px !important
+}
+
 
 .btnsub3Efull {
     position: relative;
@@ -308,11 +348,11 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     user-select: none;
-    border: 1px solid rgb(240 246 252 / 10%);
+    border: 1px solid rgb(139 133 255 / 27%);
     border-radius: 6px;
     font-family: "Saoecom2font" !important;
-    color: #57a6ff !important;
-    background-color: #21262d;
+    color: rgb(161 157 255) !important;
+    background-color: rgb(139 133 255 / 21%);
     width: 94% !important;
     margin-bottom: 20px !important;
     margin-left: 20px !important;
@@ -332,11 +372,16 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     user-select: none;
-    border: 1px solid rgb(240 246 252 / 10%);
+    border: 1px solid rgb(167 163 255 / 39%);
     border-radius: 6px;
-      font-family: "Saoecom2font" !important;
-    color: #57a6ff !important;
-    background-color: #262b30;
+    font-family: "Saoecom2font" !important;
+    color: rgb(161 157 255) !important;
+    background-color: rgb(159 154 255 / 30%);
+    width: 94% !important;
+    margin-bottom: 20px !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    text-align: center;
 }
 
 
