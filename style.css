@@ -310,14 +310,14 @@ img.btnsub2-icon {
     user-select: none;
     border: 1px solid rgb(240 246 252 / 10%);
     border-radius: 6px;
-      font-family: "Saoecom2font" !important;
+    font-family: "Saoecom2font" !important;
     color: #57a6ff !important;
     background-color: #21262d;
-  width: 9% !important;
-  margin-bottom: 20px !important;
+    width: 94% !important;
+    margin-bottom: 20px !important;
     margin-left: 20px !important;
-  margin-right: 20px !important;
-  text-align: center;
+    margin-right: 20px !important;
+    text-align: center;
 }
 
 .btnsub3Efull:hover {
@@ -2203,6 +2203,25 @@ img.btnsubfooter-icon1 {
     top: 50%;
     left: 50%;
    margin-left: 25px !important;
+  margin-right: 25px !important;
+}
+
+
+.prideE2 {
+  font-size: 24px !important;
+  color: rgb(159 154 255) !important;
+  padding-left: 0px !important;
+  padding-right: 20px !important;
+  padding-top: 10px !important;
+  margin-top: 1px !important;
+  font-family: "Saoecom2font" !important;
+  letter-spacing: 0.02em !important;
+  text-align: left;
+  line-height: 30px;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  margin-left: 25px !important;
   margin-right: 25px !important;
 }
 
