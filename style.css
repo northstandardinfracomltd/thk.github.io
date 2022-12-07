@@ -535,6 +535,20 @@ margin-top: -2px !important;
   border-radius: 14px !important;
 }
 
+
+.combat3 {
+  background: #9978d6;
+  width: 100%;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+    padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 14px !important;
+}
+
 img.clientlogo {
   width: 210px !important;
   padding-top: 50px;
