@@ -313,7 +313,7 @@ img.btnsub2-icon {
       font-family: "Saoecom2font" !important;
     color: #57a6ff !important;
     background-color: #21262d;
-  width: 100% !important;
+  width: 9% !important;
   margin-bottom: 20px !important;
     margin-left: 20px !important;
   margin-right: 20px !important;
@@ -2098,10 +2098,10 @@ img.btnsubfooter-icon1 {
 	margin-left: 2px;
   margin-top: 2px;
 	margin-bottom: 10px;
-  margin-right: 20px;
+  margin-right: 2px;
 	padding-top: 10px;
   padding-bottom: 0px;
-	padding-right: 0px;
+	padding-right: 2px;
 	padding-left: 0px;
   background: #02040a !important;
   text-align: left !important;
@@ -2133,6 +2133,8 @@ img.btnsubfooter-icon1 {
 	.columnE3S {
 		flex-basis: 100%;
 		margin: 0 0 5px 0;
+    	padding-right: 25px;
+
 	}
 }
 
