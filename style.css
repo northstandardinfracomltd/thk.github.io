@@ -1327,7 +1327,7 @@ header {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
-	margin-top: 60px;
+	margin-top: 0px;
   	margin-bottom: 65px;
 	margin-right: 0px;
 	margin-left: 0px;
@@ -2379,21 +2379,23 @@ img.btnsubfooter-icon1 {
 .prideE2leftPROMO {
     font-size: 24px !important;
     color: #4EE077 !important;
-    padding-left: 0px !important;
-    padding-right: 20px !important;
-    padding-top: 10px !important;
-    padding-bottom: 10px !importan
-    margin-top: 1px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    padding-top: 35px !important;
+    padding-bottom: 35px !important;
+    margin-top: 40px !important;
     font-family: "Saoecom2font" !important;
+    font-weight: 200 !important;
     letter-spacing: 0.02em !important;
     text-align: center;
-    line-height: 30px;
+    line-height: 32px;
     margin: 0;
     top: 50%;
     left: 50%;
     margin-left: 25px !important;
     margin-right: 25px !important;
     background: #1A2B23 !important;
+    border-radius: 14px !important;
 }
 
 .pridesubXE {
