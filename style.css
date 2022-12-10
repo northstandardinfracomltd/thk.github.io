@@ -2361,8 +2361,8 @@ img.btnsubfooter-icon1 {
   text-align: center;
   line-height: 40px;
   background-color: #f3ec78;
- background-image: linear-gradient(90deg, #ffcad9, #fcef74, rgb(149 158 255));
-  background-size: 10%;
+ background-image: linear-gradient(50deg, #ffcad9, #fcef74, rgb(149 158 255));
+  background-size: 15%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent; 
@@ -2623,13 +2623,13 @@ table td {
 
 
 .tag {
+    font-family: "Saoecom2font" !important;
     display: inline-block;
     border-radius: 3px;
     padding: .2em .5em .3em;
     border-radius: 2px;
     background: var(--tag-bg);
     color: var(--text-color);
-    font-weight: 600;
     margin: .25em .1em
 }
 
@@ -2646,8 +2646,9 @@ h1.tag {
 }
 
 .tag-lg {
-    font-size: 1.2em;
-    border-radius: 4px
+    font-size: 1.1em;
+    border-radius: 4px;
+      font-weight: normal !important;
 }
 
 .tag-bg {
@@ -2685,8 +2686,8 @@ h1.tag {
 }
 
 .tag-firebase {
-    background: #ffcb2b;
-    color: #12181a
+    background: rgb(139 133 255 / 21%);
+    color: rgb(161 157 255);
 }
 
 .tag-vue {
