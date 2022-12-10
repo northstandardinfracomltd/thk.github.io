@@ -699,10 +699,12 @@ img.brands2 {
 
 img.brands3 {
   width: 100% !important;
-  padding-top: 35px;
+  padding-top: 0px;
+  margin-top: 35px;
   padding-bottom: 0px !important;
-  margin-bottom: -3px !important;
-    border-radius: 3px 3px 3px 3px !important;
+  margin-bottom: -4px !important;
+  border-radius: 0px 0px 3px 3px !important;
+background: #1A2B23 !important
 
 }
 
