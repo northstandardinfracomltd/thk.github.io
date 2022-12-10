@@ -305,6 +305,59 @@ img.btnsub2-icon {
 
 
 
+.btnsub000P1 {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 6px;
+    font-family: "Saoecom2font" !important;
+    width: 100% !important;
+    text-align: center !important;
+    margin-bottom: 20px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: rgb(139 133 255 / 21%);
+    color: yellow !important;
+    border: 1px solid rgb(139 133 255 / 27%);
+}
+
+
+
+.btnsub000P2 {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 6px;
+    font-family: "Saoecom2font" !important;
+    width: 100% !important;
+    text-align: center !important;
+    margin-bottom: 20px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: rgb(139 133 255 / 21%);
+    color: yellow !important;
+    border: 1px solid rgb(139 133 255 / 27%);
+}
+
+
 .btnsub000M {
     position: relative;
     display: inline-block;
@@ -668,6 +721,41 @@ margin-top: -2px !important;
   margin-bottom: -23px !important;
 }
 
+
+.combat000P1 {
+  background: rgb(91 87 176 / 21%);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 14px !important;
+  border-style: dashed;
+  border: 1px dashed red;
+  margin-bottom: -23px !important;
+}
+
+
+.combat000P2 {
+  background: rgb(91 87 176 / 21%);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 14px !important;
+  border-style: dashed;
+  border: 1px dashed red;
+  margin-bottom: -23px !important;
+}
+
+
 .combat000M {
   background: #02040a;
   width: 100%;
@@ -944,6 +1032,35 @@ background: #eee9dc !important
   padding-top: 6px !important;
 }
 
+
+.entranceZ13000P1 {
+      font-size: 16px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: blue !important;
+  margin-bottom: 12px !important;
+  text-align: center !important;
+  margin-right:  9% !important;
+  margin-left: 9% !important;
+  padding-bottom: 11px !important;
+  padding-top: 6px !important;
+}
+
+
+.entranceZ13000P2 {
+      font-size: 16px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: blue !important;
+  margin-bottom: 12px !important;
+  text-align: center !important;
+  margin-right:  9% !important;
+  margin-left: 9% !important;
+  padding-bottom: 11px !important;
+  padding-top: 6px !important;
+}
 
 
 .entranceZ13000M {
