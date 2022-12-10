@@ -921,8 +921,8 @@ background: #eee9dc !important
   color: #58a6ff !important;
   padding-left: 0px !important;
     padding-right: 20px !important;
-  padding-top: 20px !important;
-  margin-top: 12px !important;
+  padding-top: 5px !important;
+  margin-top: 0px !important;
     font-family: "Saoecom2font" !important;
   letter-spacing: 0.02em !important;
   text-align: left;
@@ -1778,32 +1778,31 @@ img.navlogo {
 
 .price-option__detail {
   padding: 2em 0;
-  background: #161b22 !important;
+  background: rgb(91 87 176 / 21%) !important;
   text-align: center;
   font-family: "Saoecom2font" !important;
 
 }
 
 .price-option--low .price-option__detail  { border-radius: 14px 14px 0px 0px; }
-.price-option--mid .price-option__detail  { padding: 2.3em 0; border-radius: 14px 14px 0px 0px; }
+.price-option--mid .price-option__detail  { padding: 2.6em 0; border-radius: 14px 14px 0px 0px; }
 .price-option--high .price-option__detail { border-radius: 14px 14px 0px 0px; }
 
 .price-option__cost,
 .price-option__type {
   display: block;
       font-family: "Saoecom2font" !important;
-
 }
 
 .price-option__cost {
   font-size: 1.5em;
-  color: #c9d1d9 !important;
+  color: rgb(232 231 255) !important;
 }
 
 .price-option__type {
   font-size: .7em;
   text-transform: uppercase;
-  color: #58a6ff !important;
+  color: rgb(186 183 255) !important;
       font-family: "Saoecom2font" !important;
 }
 
@@ -1820,9 +1819,9 @@ img.navlogo {
       font-family: "Saoecom2font" !important;
 }
 
-.price-option--low .price-option__purchase  { background: #a7d155; border-radius: 0px 0px 14px 14px; }
-.price-option--mid .price-option__purchase  { background: #eada42; border-radius: 0px 0px 14px 14px; }
-.price-option--high .price-option__purchase { background: #e54e4b; border-radius: 0px 0px 14px 14px; }
+.price-option--low .price-option__purchase  { background: rgb(117 129 255); border-radius: 0px 0px 14px 14px; }
+.price-option--mid .price-option__purchase  { background: #fcef74; border-radius: 0px 0px 14px 14px; }
+.price-option--high .price-option__purchase { background: #ffcad9; border-radius: 0px 0px 14px 14px; }
 
 .price-option__purchase:before {
   content: '';
@@ -1838,9 +1837,9 @@ img.navlogo {
       font-family: "Saoecom2font" !important;
 }
 
-.price-option--low .price-option__purchase:before  { border-color: transparent transparent #a7d155; }
-.price-option--mid .price-option__purchase:before  { border-color: transparent transparent #eada42; }
-.price-option--high .price-option__purchase:before { border-color: transparent transparent #e54e4b; }
+.price-option--low .price-option__purchase:before  { border-color: transparent transparent rgb(117 129 255); }
+.price-option--mid .price-option__purchase:before  { border-color: transparent transparent #fcef74; }
+.price-option--high .price-option__purchase:before { border-color: transparent transparent #ffcad9; }
 
 
 
