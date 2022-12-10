@@ -276,6 +276,33 @@ img.btnsub2-icon {
     background-color: #21262d;
 }
 
+
+
+.btnsub000 {
+    position: relative;
+    display: inline-block;
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border: 1px solid #e54e4b;
+    border-radius: 6px;
+    font-family: "Saoecom2font" !important;
+    color: #57a6ff !important;
+    background-color: #21262d;
+    width: 100% !important;
+    text-align: center !important;
+    margin-bottom: 20px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+}
+
 .btnsub3:hover {
     position: relative;
     display: inline-block;
@@ -585,6 +612,20 @@ margin-top: -2px !important;
 
 .combat3 {
   background: #9978d6;
+  width: 100%;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+    padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 14px !important;
+}
+
+
+.combat000 {
+  background: #161b22;
   width: 100%;
     display: flex;
   flex-direction: column;
