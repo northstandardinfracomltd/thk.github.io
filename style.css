@@ -2559,7 +2559,7 @@ img.btnsubfooter-icon1 {
 
 img.tadaX {
       width: 170px !important;
-  margin-top: 60px !important;
+  margin-top: 40px !important;
 }
 
 img.tadaE {
@@ -2685,10 +2685,21 @@ h1.tag {
     color: #fff
 }
 
-.tag-firebase {
+.tag-purple {
     background: rgb(139 133 255 / 21%);
     color: rgb(161 157 255);
 }
+
+.tag-blue {
+    background: rgb(56 139 253 / 32%);
+    color: #8dc3ff;
+}
+
+.tag-green {
+    background: #32a7494a;
+    color: #68ff86c7;
+}
+
 
 .tag-vue {
     background: #41b883;
