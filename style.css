@@ -290,17 +290,17 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     user-select: none;
-    border: 1px solid #e54e4b;
     border-radius: 6px;
     font-family: "Saoecom2font" !important;
-    color: #57a6ff !important;
-    background-color: #21262d;
     width: 100% !important;
     text-align: center !important;
     margin-bottom: 20px !important;
     margin-left: 10px !important;
     margin-right: 10px !important;
     border-style: dashed;
+    background-color: rgb(139 133 255 / 21%);
+    color: rgb(161 157 255) !important;
+    border: 1px solid rgb(139 133 255 / 27%);
 }
 
 .btnsub3:hover {
@@ -625,16 +625,18 @@ margin-top: -2px !important;
 
 
 .combat000 {
-  background: #161b22;
+  background: rgb(91 87 176 / 21%);
   width: 100%;
-    display: flex;
+  display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   padding-left: 20px;
-    padding-right: 20px;
+  padding-right: 20px;
   padding-bottom: 0px;
   border-radius: 14px !important;
+  border-style: dashed;
+  border: 1px dashed rgb(121 116 227 / 21%);
 }
 
 img.clientlogo {
@@ -879,6 +881,21 @@ background: #eee9dc !important
   margin-left: 9% !important;
   padding-bottom: 11px !important;
     padding-top: 6px !important;
+}
+
+
+.entranceZ13000 {
+      font-size: 16px !important;
+    font-family: "Saoecom2font" !important;
+  line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: rgb(186 183 255) !important;
+  margin-bottom: 12px !important;
+  text-align: center !important;
+  margin-right:  9% !important;
+  margin-left: 9% !important;
+  padding-bottom: 11px !important;
+  padding-top: 6px !important;
 }
 
 
@@ -1734,7 +1751,7 @@ img.navlogo {
   position: center;
   text-align: center !important;
   margin-left: auto !important;
-    margin-right: auto !important;
+  margin-right: auto !important;
   margin-top: 55px !important;
   left: 50%;
   top: 50%;
@@ -1763,13 +1780,13 @@ img.navlogo {
   padding: 2em 0;
   background: #161b22 !important;
   text-align: center;
-      font-family: "Saoecom2font" !important;
+  font-family: "Saoecom2font" !important;
 
 }
 
-.price-option--low .price-option__detail  { border-radius: .25em 0 0 0; }
-.price-option--mid .price-option__detail  { padding: 2.3em 0; border-radius: .25em .25em 0 0; }
-.price-option--high .price-option__detail { border-radius: 0 .25em 0 0; }
+.price-option--low .price-option__detail  { border-radius: 14px 14px 0px 0px; }
+.price-option--mid .price-option__detail  { padding: 2.3em 0; border-radius: 14px 14px 0px 0px; }
+.price-option--high .price-option__detail { border-radius: 14px 14px 0px 0px; }
 
 .price-option__cost,
 .price-option__type {
@@ -1803,9 +1820,9 @@ img.navlogo {
       font-family: "Saoecom2font" !important;
 }
 
-.price-option--low .price-option__purchase  { background: #a7d155; border-radius: 0 0 0 .25em; }
-.price-option--mid .price-option__purchase  { background: #eada42; border-radius: 0 0 .25em .25em; }
-.price-option--high .price-option__purchase { background: #e54e4b; border-radius: 0 0 .25em 0; }
+.price-option--low .price-option__purchase  { background: #a7d155; border-radius: 0px 0px 14px 14px; }
+.price-option--mid .price-option__purchase  { background: #eada42; border-radius: 0px 0px 14px 14px; }
+.price-option--high .price-option__purchase { background: #e54e4b; border-radius: 0px 0px 14px 14px; }
 
 .price-option__purchase:before {
   content: '';
