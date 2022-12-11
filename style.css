@@ -760,7 +760,7 @@ margin-top: -2px !important;
   border-radius: 14px !important;
   border-style: dashed;
   border: 1px solid rgb(91 87 176 / 21%);
-  margin-bottom: -23px !important;
+  margin-bottom: -5px !important;
   margin-top: 55px !important;
 }
 
@@ -778,7 +778,7 @@ margin-top: -2px !important;
   border-radius: 14px !important;
   border-style: dashed;
   border: 1px solid rgb(41 101 203 / 21%);
-  margin-bottom: -23px !important;
+  margin-bottom: -5px !important;
 }
 
 
@@ -795,7 +795,8 @@ margin-top: -2px !important;
   border-radius: 14px !important;
   border-style: dashed;
   border: 1px dashed red;
-  margin-bottom: -23px !important;
+  margin-bottom: 5px !important;
+  margin-top: 55px !important;
 }
 
 
@@ -1084,8 +1085,8 @@ background: #eee9dc !important
   color: rgb(186 183 255) !important;
   margin-bottom: 12px !important;
   text-align: center !important;
-  margin-right:  9% !important;
-  margin-left: 9% !important;
+  margin-right:  3% !important;
+  margin-left: 3% !important;
   padding-bottom: 11px !important;
   padding-top: 6px !important;
 }
@@ -1099,8 +1100,8 @@ background: #eee9dc !important
   color: rgb(152 183 255) !important;
   margin-bottom: 12px !important;
   text-align: center !important;
-  margin-right:  9% !important;
-  margin-left: 9% !important;
+  margin-right:  3% !important;
+  margin-left: 3% !important;
   padding-bottom: 11px !important;
   padding-top: 6px !important;
 }
