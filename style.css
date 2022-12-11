@@ -1844,7 +1844,7 @@ img.navlogo {
 
 .footer__addr {
   margin-right: 1.25em;
-  margin-bottom: 2em;
+  margin-bottom: 0em;
 }
 
 .footer__logo {
@@ -2519,6 +2519,28 @@ img.btnsub-icon1E {
   text-align: center !important;
   margin-top: -20px !important;
   margin-bottom: 30px !important;
+}
+
+@media screen and (max-width: 980px) {
+  div.tada {
+  margin-left: 5% !important;
+  margin-right: 5% !important;
+  text-align: center !important;
+  margin-top: -20px !important;
+  margin-bottom: 30px !important;
+
+	}
+}
+
+@media screen and (max-width: 680px) {
+	div.tada {
+  margin-left: 5% !important;
+  margin-right: 5% !important;
+  text-align: center !important;
+  margin-top: -20px !important;
+  margin-bottom: 30px !important;
+
+	}
 }
 
 
