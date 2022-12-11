@@ -326,7 +326,7 @@ img.btnsub2-icon {
     margin-right: 10px !important;
     border-style: dashed;
     background-color: rgb(139 133 255 / 21%);
-    color: yellow !important;
+    color: rgb(161 157 255) !important;
     border: 1px solid rgb(139 133 255 / 27%);
 }
 
@@ -351,9 +351,9 @@ img.btnsub2-icon {
     margin-left: 10px !important;
     margin-right: 10px !important;
     border-style: dashed;
-    background-color: rgb(139 133 255 / 21%);
-    color: yellow !important;
-    border: 1px solid rgb(139 133 255 / 27%);
+    background-color: rgb(41 101 203 / 21%);
+    color: rgb(94 159 255) !important;
+    border: 1px solid rgb(63 131 247 / 21%);
 }
 
 
@@ -759,14 +759,14 @@ margin-top: -2px !important;
   padding-bottom: 0px;
   border-radius: 14px !important;
   border-style: dashed;
-  border: 0px solid rgb(91 87 176 / 21%);
+  border: 1px solid rgb(91 87 176 / 21%);
   margin-bottom: -23px !important;
   margin-top: 55px !important;
 }
 
 
 .combat000P3 {
-  background: rgb(91 87 176 / 21%);
+  background: rgb(41 101 203 / 21%);
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -777,7 +777,7 @@ margin-top: -2px !important;
   padding-bottom: 0px;
   border-radius: 14px !important;
   border-style: dashed;
-  border: 1px dashed red;
+  border: 1px solid rgb(41 101 203 / 21%);
   margin-bottom: -23px !important;
 }
 
@@ -1077,11 +1077,11 @@ background: #eee9dc !important
 
 
 .entranceZ13000P1 {
-      font-size: 16px !important;
-    font-family: "Saoecom2font" !important;
+  font-size: 16px !important;
+  font-family: "Saoecom2font" !important;
   line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: blue !important;
+  color: rgb(186 183 255) !important;
   margin-bottom: 12px !important;
   text-align: center !important;
   margin-right:  9% !important;
@@ -1092,11 +1092,11 @@ background: #eee9dc !important
 
 
 .entranceZ13000P3 {
-      font-size: 16px !important;
-    font-family: "Saoecom2font" !important;
+  font-size: 16px !important;
+  font-family: "Saoecom2font" !important;
   line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: blue !important;
+  color: rgb(152 183 255) !important;
   margin-bottom: 12px !important;
   text-align: center !important;
   margin-right:  9% !important;
