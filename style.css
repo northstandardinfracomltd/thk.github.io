@@ -2218,29 +2218,6 @@ img.btnsub-icon1E {
 
 
 
-.btnsubfooter {
-    position: relative;
-    display: inline-block;
-    padding-top: 5px !important;
-    padding-bottom: 5px !important;
-    padding-left: 5px !important;
-    padding-right: 5px !important;
-    font-size: 15px;
-    font-weight: var(--base-text-weight-medium, 500);
-    line-height: 20px;
-    white-space: nowrap;
-    vertical-align: middle;
-    cursor: pointer;
-    -webkit-user-select: none;
-    user-select: none;
-    border: 1px solid rgb(240 246 252 / 10%);
-    border-radius: 6px;
-    font-family: "Saoecom2font" !important;
-    color: #57a6ff !important;
-    background-color: #21262d;
-}
-
-
 
 
 
