@@ -795,8 +795,8 @@ margin-top: -2px !important;
   border-radius: 14px !important;
   border-style: dashed;
   border: 1px dashed red;
-  margin-bottom: 5px !important;
-  margin-top: 55px !important;
+  margin-bottom: 10px !important;
+  margin-top: 80px !important;
 }
 
 
@@ -1790,7 +1790,7 @@ img.navlogo {
 
 
 .nav__logoF {
-  width: 110px;
+  width: 160px;
   object-fit: contain;
 }
 
@@ -1833,8 +1833,9 @@ img.navlogo {
   flex-flow: row wrap;
   padding: 30px 30px 20px 30px;
   color: #2f2f2f;
-  background-color: #161b22;
+  background: linear-gradient(0.39turn, #4B3CC4, #27128E);
   border-top: 0px solid #161b22;
+  margin-top: 110px !important;
 }
 
 .footer > * {
@@ -2573,6 +2574,8 @@ img.btnsubfooter-icon1 {
   margin-left: 20% !important;
   margin-right: 20% !important;
   text-align: center !important;
+  margin-top: -20px !important;
+  margin-bottom: 30px !important;
 }
 
 
