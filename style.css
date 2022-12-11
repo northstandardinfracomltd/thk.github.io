@@ -833,7 +833,7 @@ img.brands {
 
 @media screen and (max-width: 980px) {
   img.brands {
-		    width: 108% !important;
+		    width: 99% !important;
       padding-top: 10px;
 
 	}
@@ -841,7 +841,7 @@ img.brands {
 
 @media screen and (max-width: 680px) {
 	img.brands {
-		    width: 108% !important;
+		    width: 106% !important;
       padding-top: 10px;
 
 	}
