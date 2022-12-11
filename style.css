@@ -1866,6 +1866,7 @@ img.navlogo {
 }
 
 .footer address {
+  font-family: "Saoecom2font" !important;
   font-style: normal;
   color: #9d91ff;
   margin-top: 12px;
@@ -1945,12 +1946,14 @@ img.navlogo {
   flex-wrap: wrap;
   color: #999;
   color: #9d91ff !important;
+  font-family: "Saoecom2font" !important;
 }
   
 .legal__links {
   display: flex;
   align-items: center;
   color: #9d91ff !important;
+  font-family: "Saoecom2font" !important;
 }
 
 .heart {
@@ -2218,12 +2221,10 @@ img.btnsub-icon1E {
 .btnsubfooter {
     position: relative;
     display: inline-block;
-  
-  padding-top: 5px !important;
-    padding-bottom: 8px !important;
-  padding-right: 16px !important;
-    padding-left: 16px !important;
-
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
     font-size: 15px;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
@@ -2232,48 +2233,13 @@ img.btnsub-icon1E {
     cursor: pointer;
     -webkit-user-select: none;
     user-select: none;
-    border: 1px solid rgb(30 111 45);
+    border: 1px solid rgb(240 246 252 / 10%);
     border-radius: 6px;
-      font-family: "Saoecom2font" !important;
-    color: #fff !important;
-    background-color: #238636;
-    margin-top: 15px !important; 
+    font-family: "Saoecom2font" !important;
+    color: #57a6ff !important;
+    background-color: #21262d;
 }
 
-
-img.btnsubfooter-icon1 {
-  width: 18px !important;
-  margin-top: 4px !important;
-    margin-bottom: -2px !important;
-    margin-left: 2px !important;
-
-
-}
-
-.btnsubfooter:hover  {
-    position: relative;
-    display: inline-block;
-  
-  padding-top: 5px !important;
-    padding-bottom: 8px !important;
-  padding-right: 16px !important;
-    padding-left: 16px !important;
-
-    font-size: 15px;
-    font-weight: var(--base-text-weight-medium, 500);
-    line-height: 20px;
-    white-space: nowrap;
-    vertical-align: middle;
-    cursor: pointer;
-    -webkit-user-select: none;
-    user-select: none;
-    border: 1px solid rgb(30 111 45);
-    border-radius: 6px;
-      font-family: "Saoecom2font" !important;
-    color: #fff !important;
-    background-color: #238636;
-    margin-top: 15px !important; 
-}
 
 
 
