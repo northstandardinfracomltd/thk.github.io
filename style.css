@@ -1,7 +1,7 @@
 
 /* SAOECOM */
 :root {
-  --color-bg: #fff;
+  --color-bg: #bed8fb;
   --color-text-main: #000000;
   --color-primary: #FFFF00;
   --image-max-width: 300px;
@@ -1781,7 +1781,7 @@ img.navlogo {
 /* nav */
 
 .nav__logo {
-  width: 110px;
+  width: 260px;
   object-fit: contain;
 }
 
