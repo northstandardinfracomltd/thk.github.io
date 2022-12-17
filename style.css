@@ -2997,48 +2997,35 @@ h1.tag {
 
 
 
-.row__posters {
+
+
+.row{
+  align-items: stretch;
   display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow-x: auto;
   overflow-y: hidden;
-  overflow-x: scroll;
-  padding: 0px;
+  margin-left: 10%;
 }
-
-.row {
-  color: white;
-  margin-left: 20px;
-}
-
-.row__poster {
-  width: 400px !important;
-  object-fit: contain;
-  max-height: 100px;
+.card {
+  /*float: left;*/
+  max-width: 250% !important;
+  padding: .75rem;
+  margin-bottom: 30px;
+  border: 0;
+  flex-basis: 75.333%;
+  flex-grow: 0;
+  flex-shrink: 0;
   margin-right: 10px;
-  transition: transform 450ms;
-      max-width: 400px !important;
+  padding-bottom: 20px;
 }
 
-.row__posterLarge {
-  max-height: 200px !important;
-  max-width: 600px !important;
-    width: 400px !important;
-    max-width: 400px !important;
-
+.card > img {
+  margin-bottom: .75rem;
+  width: 100%;
 }
 
-
-
-.row__poster:hover {
-  transform: scale(1.08);
+.card-text {
+  font-size: 85%;
 }
-
-.row__posters::-webkit-scrollbar {
-  display: none;
-}
-
-
-.row__posterLarge:hover {
-  transform: scale(1.09);
-}
-
-
