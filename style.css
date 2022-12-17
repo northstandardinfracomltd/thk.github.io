@@ -746,7 +746,6 @@ margin-top: -2px !important;
 
 .combat000P1 {
   background: rgb(91 87 176 / 21%);
-  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -3002,7 +3001,7 @@ h1.tag {
   display: flex;
   overflow-y: hidden;
   overflow-x: scroll;
-  padding: 20px;
+  padding: 0px;
 }
 
 .row {
@@ -3011,16 +3010,35 @@ h1.tag {
 }
 
 .row__poster {
-  width: 100%;
+  width: 400px !important;
   object-fit: contain;
   max-height: 100px;
   margin-right: 10px;
   transition: transform 450ms;
+      max-width: 400px !important;
 }
 
 .row__posterLarge {
-  max-height: 250px;
-    width: 800px;
+  max-height: 200px !important;
+  max-width: 600px !important;
+    width: 400px !important;
+    max-width: 400px !important;
+
+}
+
+
+
+.row__poster:hover {
+  transform: scale(1.08);
+}
+
+.row__posters::-webkit-scrollbar {
+  display: none;
+}
+
+
+.row__posterLarge:hover {
+  transform: scale(1.09);
 }
 
 
