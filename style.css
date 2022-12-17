@@ -1680,7 +1680,7 @@ header {
   height: 55px;
   width: 100%;
   justify-content: space-between;
-  background: linear-gradient(0.25turn, #4B3CC4, #27128E);
+  background: red !important;
 
 }
 
@@ -1807,6 +1807,7 @@ img.navlogo {
   z-index: 1;
   transition-timing-function: ease-in;
   transition: all 0.5s;
+  background: #f4f4f4 !important;
 }
 
 .nav__black {
