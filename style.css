@@ -579,8 +579,8 @@ img.btnsub2-icon {
 .wistia_embed {
     position: relative;
     display: inline-block;
-    padding: 20px 30px;
-    font-size: 17px;
+    padding: 17px 30px;
+    font-size: 19px;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
     white-space: nowrap;
@@ -592,13 +592,40 @@ img.btnsub2-icon {
     font-family: "Saoecom2font" !important;
     width: auto !important;
     text-align: center !important;
-    margin-bottom: 20px !important;
+    margin-bottom: 0px !important;
+    margin-top: -18px !important;
     margin-left: 10px !important;
     margin-right: 10px !important;
     border-style: dashed;
-    background-color: #dd3136;
+    background-color: #fff;
     color: rgb(94 159 255) !important;
-    border: 1px solid rgb(63 131 247 / 21%);
+    border: 0px solid rgb(63 131 247 / 21%);
+}
+
+.wistia_embed:hover {
+    position: relative;
+    display: inline-block;
+    padding: 17px 30px;
+    font-size: 19px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 0px;
+    font-family: "Saoecom2font" !important;
+    width: auto !important;
+    text-align: center !important;
+    margin-bottom: 0px !important;
+    margin-top: -18px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: #F4F4F4;
+    color: rgb(94 159 255) !important;
+    border: 0px solid rgb(63 131 247 / 21%);
 }
 
 .btnsub000P2 {
