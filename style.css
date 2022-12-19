@@ -524,7 +524,7 @@ img.btnsub2-icon {
 }
 
 
-.btnsub000P3--- {
+.btnsub000P3---:hover {
     position: relative;
     display: inline-block;
     padding-top: 20px !important;
@@ -999,6 +999,7 @@ margin-top: -2px !important;
   border-style: solid;
   border: 1px solid rgb(41 101 203 / 21%);
   margin-bottom: 5px !important;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 
@@ -1317,7 +1318,7 @@ background: #eee9dc !important
   font-family: "Saoecom2fontlight" !important;
   line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: rgb(152 183 255) !important;
+  color: #221F20 !important;
   margin-bottom: 12px !important;
   text-align: center !important;
   margin-right:  3% !important;
