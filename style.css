@@ -3134,3 +3134,48 @@ h1.tag {
 .container {
   padding-top: 75px !important;
 }
+
+
+
+
+
+.items {
+  border: 1px solid  #c8c5db;
+  border-radius: 8px;
+  background-clip: border-box;
+  overflow: hidden;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  
+  & + & {
+    border-top: 1px solid #c8c5db;
+  }
+}
+
+.item-link {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  text-decoration: none;
+  padding: 12px;
+  margin: -12px;
+  
+  &:hover {
+    background: rgba(#eff0f2, 0.5);
+  }
+}
+
+.item-icon {
+  margin-right: 16px;
+}
+
+.item-text {
+  font-family: "IBM Plex Sans", Roboto, sans-serif;
+  font-size: 1.2em;
+  color: #332955;
+  flex-grow: 1;
+}
