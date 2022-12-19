@@ -331,8 +331,8 @@ img.btnsub2-icon {
 .btnsub000P3 {
     position: relative;
     display: inline-block;
-    padding-top: 13px !important;
-    padding-bottom: 13px !important;
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
     font-size: 19px;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
@@ -342,7 +342,7 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     user-select: none;
-    border-radius: 6px;
+    border-radius: 0px 0px 14px 14px;
     font-family: "Saoecom2font" !important;
     width: 100% !important;
     text-align: center !important;
@@ -352,7 +352,11 @@ img.btnsub2-icon {
     border-style: solid;
     background-color: #fff;
     color: rgb(94 159 255) !important;
-    border: 1px 0px 0px 0px solid rgb(63 131 247 / 21%) !important;
+    border-top: 1px solid rgb(63 131 247 / 21%) !important;
+      border-left: 0px solid rgb(63 131 247 / 21%) !important;
+    border-bottom: 0px solid rgb(63 131 247 / 21%) !important;
+    border-right: 0px solid rgb(63 131 247 / 21%) !important;
+
 }
 
 
@@ -1297,6 +1301,7 @@ purpleblocks {
 
 
 
+
 purpleblockspromo {
   max-width: 1000px;
   margin: 30px auto;
@@ -1659,9 +1664,9 @@ header {
 .column {
 	flex: 1;
 	border: 0px solid transparent;
-	margin: 2px;
+	margin: 10px;
 	padding-top: 10px;
-  	padding-bottom: 0px;
+  padding-bottom: 0px;
 	padding-right: 0px;
 	padding-left: 0px;
 
@@ -1674,7 +1679,7 @@ header {
 
 @media screen and (max-width: 980px) {
   .columns .column {
-		margin-bottom: 5px;
+		margin-bottom: 15px !important;
     flex-basis: 40%;
 		&:nth-last-child(2) {
 			margin-right: 0;
@@ -1689,7 +1694,7 @@ header {
 @media screen and (max-width: 680px) {
 	.columns .column {
 		flex-basis: 100%;
-		margin: 0 0 5px 0;
+		margin: 0 0 15px 0 !important;
 	}
 }
 
