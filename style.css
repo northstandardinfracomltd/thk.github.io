@@ -1,7 +1,7 @@
 
 /* SAOECOM */
 :root {
-  --color-bg: #ffffff;
+  --color-bg: #bed8fb;
   --color-text-main: #000000;
   --color-primary: #FFFF00;
   --image-max-width: 300px;
@@ -604,8 +604,8 @@ img.btnsub2-icon {
 .btnsub000P2 {
     position: relative;
     display: inline-block;
-    padding: 10px 30px;
-    font-size: 16px;
+    padding: 12px 22px;
+    font-size: 17px;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
     white-space: nowrap;
@@ -613,7 +613,7 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     user-select: none;
-    border-radius: 0px;
+    border-radius: 10px;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-bottom: auto !important;
