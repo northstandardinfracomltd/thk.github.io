@@ -1299,6 +1299,16 @@ purpleblocks {
   grid-gap: 1em;
 }
 
+purpleblocks2 {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 0 10px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
+
 
 
 
@@ -3150,9 +3160,25 @@ h1.tag {
   display: flex;
   align-items: center;
   padding: 12px;
+  width: 100% !important;
   
   & + & {
     border-top: 1px solid #c8c5db;
+      width: 100% !important;
+
+  }
+}
+
+.item:hover {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  width: 100% !important;
+  
+  & + & {
+    border-top: 1px solid #c8c5db;
+      width: 100% !important;
+
   }
 }
 
