@@ -745,19 +745,18 @@ margin-top: -2px !important;
 
 
 .combat000P1 {
-  background: rgb(91 87 176 / 21%);
+  background: transparent;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 0px;
+  padding: 0px !important;
   border-radius: 0px !important;
   border-style: dashed;
-  border: 1px solid rgb(91 87 176 / 21%);
+  border: 0px solid rgb(91 87 176 / 21%);
   margin-bottom: -5px !important;
   margin-top: 55px !important;
+  margin-right: 20px !important;
 }
 
 
@@ -3008,7 +3007,25 @@ h1.tag {
   overflow-y: hidden;
   margin-left: 10%;
 }
+
+
+
 .card {
+  /*float: left;*/
+  max-width: 50% !important;
+  padding: .75rem;
+  margin-bottom: 30px;
+  border: 0;
+  flex-basis: 75.333%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin-right: 10px;
+  padding-bottom: 20px;
+}
+
+
+@media screen and (max-width: 980px) {
+  .card {
   /*float: left;*/
   max-width: 250% !important;
   padding: .75rem;
@@ -3020,6 +3037,24 @@ h1.tag {
   margin-right: 10px;
   padding-bottom: 20px;
 }
+}
+
+@media screen and (max-width: 680px) {
+	.card {
+  /*float: left;*/
+  max-width: 250% !important;
+  padding: .75rem;
+  margin-bottom: 30px;
+  border: 0;
+  flex-basis: 75.333%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin-right: 10px;
+  padding-bottom: 20px;
+}
+}
+
+
 
 .card > img {
   margin-bottom: .75rem;
