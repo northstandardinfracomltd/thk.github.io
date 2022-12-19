@@ -1,7 +1,7 @@
 
 /* SAOECOM */
 :root {
-  --color-bg: #bed8fb;
+  --color-bg: #ffffff;
   --color-text-main: #000000;
   --color-primary: #FFFF00;
   --image-max-width: 300px;
@@ -1357,7 +1357,7 @@ line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
   color: #221F20 !important;
   margin-bottom: 25px !important;
-  margin-top: -30px !important;
+  margin-top: 30px !important;
   text-align: left !important;
   margin-right:  0% !important;
   margin-left: 0px !important;
@@ -2114,7 +2114,8 @@ img.navlogo {
   transition-timing-function: ease-in;
   transition: all 0.5s;
   background: #fff !important;
-  border-bottom: 1px solid #F4F4F4 !important;
+  border-bottom: 1px solid #eceef4 !important;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .nav__black {
