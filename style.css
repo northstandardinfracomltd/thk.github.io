@@ -579,8 +579,8 @@ img.btnsub2-icon {
 .wistia_embed {
     position: relative;
     display: inline-block;
-    padding: 5px 16px;
-    font-size: 15px;
+    padding: 20px 30px;
+    font-size: 17px;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
     white-space: nowrap;
@@ -588,15 +588,15 @@ img.btnsub2-icon {
     cursor: pointer;
     -webkit-user-select: none;
     user-select: none;
-    border-radius: 6px;
+    border-radius: 0px;
     font-family: "Saoecom2font" !important;
-    width: 100% !important;
+    width: auto !important;
     text-align: center !important;
     margin-bottom: 20px !important;
     margin-left: 10px !important;
     margin-right: 10px !important;
     border-style: dashed;
-    background-color: rgb(41 101 203 / 21%);
+    background-color: #dd3136;
     color: rgb(94 159 255) !important;
     border: 1px solid rgb(63 131 247 / 21%);
 }
@@ -933,7 +933,7 @@ margin-top: -2px !important;
 }
 
 .combat1 {
-  background: #FFCAD9FF;
+  background: #ffffff;
   width: 100%;
     display: flex;
   flex-direction: column;
@@ -942,7 +942,7 @@ margin-top: -2px !important;
   padding-left: 20px;
     padding-right: 20px;
   padding-bottom: 0px;
-  border-radius: 14px !important;
+  border-radius: 0px !important;
 }
 
 .combat2 {
@@ -1275,17 +1275,19 @@ background: #eee9dc !important
 
 
 .entranceZ1 {
-      font-size: 16px !important;
-    font-family: "Saoecom2font" !important;
-  line-height: 1.3 !important;
+  font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: #ff96b2 !important;
+  color: #221F20 !important;
   margin-bottom: 12px !important;
   text-align: center !important;
-  margin-right:  9% !important;
-  margin-left: 9% !important;
+  margin-right:  3% !important;
+  margin-left: 3% !important;
   padding-bottom: 11px !important;
-    padding-top: 6px !important;
+  padding-top: 6px !important;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
 }
 
 
@@ -3355,7 +3357,7 @@ h1.tag {
 
 .card {
   /*float: left;*/
-  max-width: 50% !important;
+  max-width: 44% !important;
   padding: .75rem;
   margin-bottom: 30px;
   border: 0;
