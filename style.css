@@ -362,6 +362,29 @@ img.btnsub2-icon {
 }
 
 
+.btnsub000P3ray {
+    padding: 5px 16px;
+    font-size: 15px;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    width: 30% !important;
+    border-radius: 6px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-bottom: 20px !important;
+    margin-left: 20px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: rgb(139 133 255 / 21%);
+    color: rgb(161 157 255) !important;
+    border: 1px solid rgb(139 133 255 / 27%);
+}
+
+
 .btnsub000P3 {
     position: relative;
     display: inline-block;
@@ -1318,7 +1341,7 @@ line-height: 1.3 !important;
 }
 
 .entranceZ1title {
-  font-size: 40px !important;
+  font-size: 52px !important;
     font-family: "Saoecom2font" !important;
 line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
@@ -1329,6 +1352,23 @@ line-height: 1.3 !important;
   margin-left: 3% !important;
   padding-bottom: 11px !important;
   padding-top: 6px !important;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+}
+
+.entranceZ1sub {
+  font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: #221F20 !important;
+  margin-bottom: 12px !important;
+  text-align: left !important;
+  margin-right:  3% !important;
+  margin-left: 3% !important;
+  margin-top: -15px !important;
+  padding-bottom: 11px !important;
+  padding-top: 0px !important;
   padding-right: 15px !important;
   padding-left: 15px !important;
 }
