@@ -376,7 +376,7 @@ img.btnsub2-icon {
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     margin-bottom: 20px !important;
-    margin-left: 20px !important;
+    margin-left: 30px !important;
     margin-right: 10px !important;
     border-style: dashed;
     background-color: rgb(139 133 255 / 21%);
@@ -3498,6 +3498,13 @@ h1.tag {
   padding-top: 75px !important;
   background-color: #fff !important;
   border-bottom: 1px solid #a2c1eb !important;
+}
+
+
+.container2 {
+  padding-top: 75px !important;
+  background-color: #fff !important;
+  border-bottom: 1px solid #353232 !important;
 }
 
 
