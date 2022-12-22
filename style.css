@@ -363,8 +363,8 @@ img.btnsub2-icon {
 
 
 .btnsub000P3ray {
-    padding-top: 17px !important;
-    padding-bottom: 17px !important;
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
     padding-right: 25px !important;
     padding-left: 25px !important;
     font-size: 1.2rem;
@@ -384,7 +384,7 @@ img.btnsub2-icon {
     border-style: dashed;
     background-color: #dc3136;
     color: #ffffff !important;
-    border: 1px solid rgb(139 133 255 / 27%);
+    border: 1px solid #dc3136;
 }
 
 
@@ -410,7 +410,7 @@ img.btnsub2-icon {
     border-style: dashed;
     background-color: #dc3136;
     color: #ffffff !important;
-    border: 1px solid rgb(139 133 255 / 27%);
+    border: 1px solid #dc3136;
 }
 
 
@@ -2210,7 +2210,7 @@ img.navlogo {
 /* nav */
 
 .nav__logo {
-  width: 260px;
+  width: 290px;
   object-fit: contain;
 }
 
@@ -2218,14 +2218,14 @@ img.navlogo {
 
 @media screen and (max-width: 980px) {
   .nav__logo {
-  width: 200px;
+  width: 230px;
   object-fit: contain;
 }
 }
 
 @media screen and (max-width: 680px) {
 	.nav__logo {
-  width: 200px;
+  width: 210px;
   object-fit: contain;
 }
 }
@@ -2253,8 +2253,7 @@ img.navlogo {
   transition-timing-function: ease-in;
   transition: all 0.5s;
   background: #fff !important;
-  border-bottom: 1px solid #eceef4 !important;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-bottom: 1px solid #e1e1e3 !important;
 }
 
 .nav__black {
@@ -3706,7 +3705,7 @@ a:hover {
     border-style: dashed;
     background-color: #dc3136;
     color: #ffffff !important;
-    border: 1px solid rgb(139 133 255 / 27%);
+    border: 1px solid #dc3136;
 }
 
 
@@ -3730,7 +3729,7 @@ a:hover {
     border-style: dashed;
     background-color: #dc3136;
     color: #ffffff !important;
-    border: 1px solid rgb(139 133 255 / 27%);
+    border: 1px solid #dc3136;
 }
 
 
@@ -3742,11 +3741,11 @@ a:hover {
 .dd-menu {
   position: absolute;
   top: 100%;
-  border: 1px solid #ccc;
+  border: 1px solid #e1e1e3;
   border-radius: 10px;
   padding: 0 !important;
-  margin: 8px 10px 10px -108px;
-  box-shadow: 0 0 6px 0 rgba(0,0,0,0.1);
+  padding-top: 10px !important;
+  margin: 6px 10px 10px -88px;
   background-color: #ffffff;
   list-style-type: none;
 }
@@ -3781,5 +3780,5 @@ a:hover {
 
 .dd-menu li.divider{
   padding: 0;
-  border-bottom: 1px solid #cccccc;
+  border-bottom: 1px solid #e1e1e3;
 }
