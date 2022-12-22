@@ -1197,6 +1197,33 @@ img.brands {
 
 
 
+img.GIF {
+  width: 95% !important;
+  padding-top: 20px;
+  padding-bottom: 0px !important;
+
+}
+
+@media screen and (max-width: 980px) {
+  img.GIF {
+		    width: 99% !important;
+      padding-top: 10px;
+
+	}
+}
+
+@media screen and (max-width: 680px) {
+	img.GIF {
+		    width: 106% !important;
+      padding-top: 10px;
+
+	}
+}
+
+
+
+
+
 
 
 img.brands1 {
