@@ -859,7 +859,7 @@ a:not(.btn--remix):visited {
   font-style: normal;
   font-weight: normal;
   font-size: 1.1rem;
-  color: #fff;
+  color: #535050;
   text-decoration: none;
   border-style: none;
 }
@@ -2326,9 +2326,10 @@ img.navlogo {
 }
 
 .footer address {
-  font-family: "Saoecom2font" !important;
+  font-family: "Saoecom2fontlight" !important;
+    font-size: 1.1rem;
   font-style: normal;
-  color: #fff;
+  color: #535050;
   margin-top: 12px;
 }
 
@@ -2359,8 +2360,8 @@ img.navlogo {
 }
 
 .footer a {
-  font-size: 16px !important;
-  font-family: "Saoecom2font" !important;
+  font-size: 1.1rem;
+  font-family: "Saoecom2fontlight" !important;
   line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
   margin-bottom: 12px !important;
@@ -2369,6 +2370,7 @@ img.navlogo {
   margin-left: 0% !important;
   padding-bottom: 11px !important;
   padding-top: 6px !important;
+  color: #535050;
 }
 
 .footer__nav {
@@ -2406,18 +2408,21 @@ img.navlogo {
   flex-wrap: wrap;
   color: #999;
   color: #535050 !important;
-  font-family: "Saoecom2font" !important;
+  font-family: "Saoecom2fontlight" !important;
+    font-size: 1.1rem;
 }
+
   
 .legal__links {
   display: flex;
-  align-items: center;
-  color: #fff !important;
-  font-family: "Saoecom2font" !important;
+  flex-wrap: wrap;
+  color: #999;
+  color: #ffb6b6 !important;
+  font-family: "Saoecom2fontlight" !important;
 }
 
 .heart {
-  color: #ff7575 !important;
+  color: #535050 !important;
 }
 
 @media screen and (min-width: 24.375em) {
