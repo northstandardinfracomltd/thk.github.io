@@ -1398,6 +1398,13 @@ line-height: 1.1 !important;
   padding-top: 6px !important;
   padding-right: 15px !important;
   padding-left: 15px !important;
+  background-color: #f3ec78;
+    background-image: linear-gradient(50deg, #ffcad9, #fcef74, rgb(149 158 255));
+    background-size: 40%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
 }
 
 .entranceZ1sub {
