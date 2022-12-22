@@ -1399,12 +1399,13 @@ line-height: 1.1 !important;
   padding-right: 15px !important;
   padding-left: 15px !important;
   background-color: #f3ec78;
-    background-image: linear-gradient(50deg, #ffcad9, #fcef74, rgb(149 158 255));
-    background-size: 40%;
+    background-image: linear-gradient(47deg, #ffcad9, #ec7272, rgb(211 150 150));
+    background-size: 20%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
+
 }
 
 .entranceZ1sub {
