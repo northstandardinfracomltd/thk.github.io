@@ -3448,7 +3448,9 @@ h1.tag {
 }
 
 
-
+.BKR {
+    font-size: 220px !important;
+}
 
 
 .row{
@@ -3458,7 +3460,8 @@ h1.tag {
   flex-wrap: nowrap;
   overflow-x: auto;
   overflow-y: hidden;
-  margin-left: 5%;
+  margin-left: 120px;
+  margin-bottom: 55px !important;
   padding-bottom: 30px !important;
 }
 
