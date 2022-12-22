@@ -388,6 +388,32 @@ img.btnsub2-icon {
 }
 
 
+.btnsub000P3ray:hover {
+    padding-top: 17px !important;
+    padding-bottom: 17px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    width: 175px !important;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-bottom: 20px !important;
+    margin-left: 27px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid rgb(139 133 255 / 27%);
+}
+
+
 .btnsub000P3 {
     position: relative;
     display: inline-block;
@@ -3641,12 +3667,14 @@ a {
   text-decoration: none;
   color: #000000;
   font-family: "Saoecom2fontlight" !important;
+  font-size: 1.1rem;
 }
 
 
 a:hover {
   color: #222222;
   font-family: "Saoecom2fontlight" !important;
+  font-size: 1.1rem;
 }
 
 /* Dropdown */
@@ -3655,21 +3683,56 @@ a:hover {
   display: inline-block;
   position: relative;
   font-family: "Saoecom2font" !important;
+  font-size: 1.1rem;
 }
 
 .dd-button {
   display: inline-block;
-  border: 1px solid gray;
-  border-radius: 10px;
-  padding: 10px 20px 10px 20px;
   background-color: #ffffff;
-  cursor: pointer;
   white-space: nowrap;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    padding-right: 27px !important;
+    padding-left: 27px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid rgb(139 133 255 / 27%);
 }
 
+
 .dd-button:hover {
-  background-color: #eeeeee;
+  display: inline-block;
+  background-color: #ffffff;
+  white-space: nowrap;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    padding-right: 27px !important;
+    padding-left: 27px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid rgb(139 133 255 / 27%);
 }
+
 
 
 .dd-input {
@@ -3700,20 +3763,20 @@ a:hover {
   padding: 10px 20px;
   cursor: pointer;
   white-space: nowrap;
+    padding-bottom: 10px !important;
+
 }
 
 .dd-menu li:hover {
   background-color: #fff;
     border-radius: 10px;
     color: #8b949e !important;
-
-
 }
 
 .dd-menu li a {
   display: block;
   margin: -10px -20px;
-  padding: 10px 20px;
+  padding: 15px 20px;
 }
 
 .dd-menu li.divider{
