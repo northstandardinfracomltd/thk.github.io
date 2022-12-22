@@ -941,6 +941,12 @@ img.iconcard {
 margin-top: -2px !important;
 }
 
+img.logosray {
+  padding-right: 8px;
+  width: 400px !important;
+margin-top: -2px !important;
+}
+
 
 /* Very light scaling for our illustration */
 .client {
@@ -3582,6 +3588,14 @@ h1.tag {
   background-color: #fff !important;
   margin-top: -40px !important;
 }
+
+
+.container4 {
+  padding-top: 90px !important;
+  background-color: #fff !important;
+  margin-top: -40px !important;
+}
+
 
 
 .container2 {
