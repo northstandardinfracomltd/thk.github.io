@@ -973,7 +973,7 @@ margin-top: -2px !important;
   width: 100%;
     display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   padding-left: 0px;
     padding-right: 0px;
@@ -3447,9 +3447,30 @@ h1.tag {
     background: #adecf3
 }
 
-
-#wistia_75 {
-    color: yellow !important;
+.button2 {
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: 5px !important;
+    margin-bottom: 40px !important;
+    margin-left: 25px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+    text-align: left !important;
 }
 
 
