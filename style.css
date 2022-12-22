@@ -1071,7 +1071,28 @@ margin-top: -2px !important;
   border: 1px solid rgb(41 101 203 / 21%);
   margin-bottom: 5px !important;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
 }
+
+.combat000P3:hover {
+  top: -10px !important;
+}
+
+
+@media screen and (max-width: 980px) {
+  combat000P3:hover {
+  top: 0 !important;
+}
+}
+
+@media screen and (max-width: 680px) {
+	combat000P3:hover {
+  top: 0 !important;
+}
+}
+
 
 
 .combat000P2 {
