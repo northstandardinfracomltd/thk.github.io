@@ -631,63 +631,6 @@ img.btnsub2-icon {
 }
 
 
-.wistia_click_to_play {
-    font-family: "Saoecom2fontbold" !important;
-    color: #fff !important;
-}
-
-.wistia_embed {
-    padding-top: 18px !important;
-    padding-bottom: 18px !important;
-    padding-right: 25px !important;
-    padding-left: 25px !important;
-    font-size: 1.2rem;
-    font-weight: var(--base-text-weight-medium, 500);
-    line-height: 20px;
-    white-space: nowrap;
-    vertical-align: middle;
-    cursor: pointer;
-    -webkit-user-select: none;
-    width: 180px !important;
-    border-radius: 10px;
-    font-family: "Saoecom2font" !important;
-    text-align: center !important;
-    margin-top: -10px !important;
-    margin-bottom: 40px !important;
-    margin-left: 25px !important;
-    margin-right: 10px !important;
-    border-style: dashed;
-    background-color: #dc3136;
-    color: #ffffff !important;
-    border: 1px solid #dc3136;
-}
-
-
-.wistia_embed:hover {
-    padding-top: 18px !important;
-    padding-bottom: 18px !important;
-    padding-right: 25px !important;
-    padding-left: 25px !important;
-    font-size: 1.2rem;
-    font-weight: var(--base-text-weight-medium, 500);
-    line-height: 20px;
-    white-space: nowrap;
-    vertical-align: middle;
-    cursor: pointer;
-    -webkit-user-select: none;
-    width: 180px !important;
-    border-radius: 10px;
-    font-family: "Saoecom2font" !important;
-    text-align: center !important;
-    margin-top: -10px !important;
-    margin-bottom: 40px !important;
-    margin-left: 25px !important;
-    margin-right: 10px !important;
-    border-style: dashed;
-    background-color: #dc3136;
-    color: #ffffff !important;
-    border: 1px solid #dc3136;
-}
 
 .btnsub000P2 {
     position: relative;
