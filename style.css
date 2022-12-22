@@ -631,6 +631,11 @@ img.btnsub2-icon {
 }
 
 
+.wistia_click_to_play {
+    font-family: "Saoecom2font" !important;
+    color: #fff !important;
+}
+
 .wistia_embed {
     padding-top: 18px !important;
     padding-bottom: 18px !important;
@@ -902,11 +907,11 @@ img.btnsub2-icon {
 
 .footer a:not(.btn--remix):link,
 a:not(.btn--remix):visited {
-  font-family: HK Grotesk;
+  font-family: "Saoecom2font" !important
   font-style: normal;
   font-weight: normal;
   font-size: 1.1rem;
-  color: #000;
+  color: #fff;
   text-decoration: none;
   border-style: none;
 }
@@ -1022,8 +1027,8 @@ margin-top: -2px !important;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-left: 20px;
-    padding-right: 20px;
+  padding-left: 0px;
+    padding-right: 0px;
   padding-bottom: 0px;
   border-radius: 14px !important;
 }
@@ -1198,9 +1203,12 @@ img.brands {
 
 
 img.GIF {
-  width: 95% !important;
+  width: 100% !important;
   padding-top: 20px;
-  padding-bottom: 0px !important;
+  padding-bottom: -2px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+border-radius: 0px 0px 15px 15px !important;
 
 }
 
