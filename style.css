@@ -1629,8 +1629,8 @@ input {
 
 /* SAOECOM */
 h2 {
-  font-size: 18px !important;
-  color: #dad5ff !important;
+  font-size: 1.2rem !important;
+  color: #ff9090 !important;
   padding-left: 0px !important;
  padding-right: 20px !important;
   padding-top: 20px !important;
@@ -2318,13 +2318,15 @@ img.navlogo {
 
 .nav__title {
   font-weight: 400;
-  font-size: 15px;
+  font-size: 1.3rem;
+    font-family: "Saoecom2font" !important;
+
 }
 
 .footer address {
   font-family: "Saoecom2font" !important;
   font-style: normal;
-  color: #9d91ff;
+  color: #ffeded;
   margin-top: 12px;
 }
 
@@ -2378,11 +2380,11 @@ img.navlogo {
 }
 
 .nav__ul a {
-  font-size: 16px !important;
-  font-family: "Saoecom2font" !important;
+  font-size: 1.1rem !important;
+  font-family: "Saoecom2fontlight" !important;
   line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: #9d91ff !important;
+  color: #ffeded !important;
   margin-bottom: 12px !important;
   text-align: center !important;
   margin-right:  9% !important;
@@ -2401,14 +2403,14 @@ img.navlogo {
   display: flex;
   flex-wrap: wrap;
   color: #999;
-  color: #9d91ff !important;
+  color: #ffeded !important;
   font-family: "Saoecom2font" !important;
 }
   
 .legal__links {
   display: flex;
   align-items: center;
-  color: #9d91ff !important;
+  color: #ffeded !important;
   font-family: "Saoecom2font" !important;
 }
 
