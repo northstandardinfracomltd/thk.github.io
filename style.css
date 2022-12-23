@@ -2314,8 +2314,10 @@ img.navlogo {
 
 @media screen and (max-width: 680px) {
 	.nav__logo {
-  width: 210px;
+  width: 270px;
   object-fit: contain;
+  margin-top: auto !important;
+    margin-bottom: auto !important;
 }
 }
 
