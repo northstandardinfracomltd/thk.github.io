@@ -2414,14 +2414,11 @@ img.navlogo {
 /* nav */
 
 .nav__logo {
-  width: 290px;
-  object-fit: contain;
-  
-  
+  object-fit: contain;  
       width: 98% !important;
-    max-width: 320px !important;
+    max-width: 330px !important;
   object-fit: contain;
-  margin-top: -5px !important;
+  margin-top: 0px !important;
     margin-bottom: -5px !important;
 }
 
@@ -2463,7 +2460,7 @@ img.navlogo {
   top: 0;
   width: 100%;
   justify-content: space-between;
-  padding: 14px;
+  padding: 12px;
   /* background-color: #111; */
   z-index: 1;
   transition-timing-function: ease-in;
