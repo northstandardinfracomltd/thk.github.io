@@ -2460,7 +2460,7 @@ img.navlogo {
   top: 0;
   width: 100%;
   justify-content: space-between;
-  padding: 12px;
+  padding: 10px;
   /* background-color: #111; */
   z-index: 1;
   transition-timing-function: ease-in;
