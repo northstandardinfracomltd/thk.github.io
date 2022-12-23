@@ -1223,15 +1223,11 @@ margin-top: -8px !important;
 
 @media screen and (max-width: 980px) {
   img.GIFRT {
-  width: 100% !important;
-margin-right: 3% !important;
-    margin-left: 13px !important;
-    margin-right: 13px !important;
-margin-top: -8px !important;
+  width: 97% !important;
     padding-bottom: 11px !important;
     padding-top: 0px !important;
-    padding-right: 15px !important;
-    padding-left: 15px !important;
+    padding-left: 0px;
+    padding-right: 0px;
   opacity: 0.9 !important;
 
 }
@@ -1239,14 +1235,11 @@ margin-top: -8px !important;
 
 @media screen and (max-width: 680px) {
 	img.GIFRT {
-  width: 100% !important;
-  margin-right: 13% !important;
-  margin-left: 13px !important;
-  margin-top: -8px !important;
+  width: 94% !important;
     padding-bottom: 11px !important;
     padding-top: 0px !important;
-    padding-right: 15px !important;
-    padding-left: 15px !important;
+    padding-left: 0px;
+    padding-right: 0px;
   opacity: 0.9 !important;
 
 }
@@ -1466,6 +1459,15 @@ background: #eee9dc !important
   line-height: 40px !important;
 	}
 }
+
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+
 
 @media screen and (max-width: 680px) {
 	.cbrunch2 {
@@ -2416,8 +2418,6 @@ img.navlogo {
   object-fit: contain;
 }
 
-
-
 @media screen and (max-width: 980px) {
   .nav__logo {
   width: 230px;
@@ -2427,11 +2427,10 @@ img.navlogo {
 
 @media screen and (max-width: 680px) {
 	.nav__logo {
-  width: 270px;
+    width: 90% !important;
   object-fit: contain;
-  margin-top: auto !important;
-    margin-bottom: auto !important;
-}
+  margin-top: 5px !important;
+  }
 }
 
 
