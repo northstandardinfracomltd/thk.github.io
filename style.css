@@ -362,6 +362,61 @@ img.btnsub2-icon {
 }
 
 
+
+.btnsub000P3rayRT {
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    width: 210px !important;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: -10px !important;
+    margin-bottom: 55px !important;
+    margin-left: 25px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+}
+
+
+.btnsub000P3rayRT:hover {
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    width: 210px !important;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: -10px !important;
+    margin-bottom: 55px !important;
+    margin-left: 25px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+}
+
+
 .btnsub000P3ray {
     padding-top: 18px !important;
     padding-bottom: 18px !important;
@@ -1149,6 +1204,35 @@ img.brands {
 	}
 }
 
+
+
+
+img.GIFRT {
+  width: 100% !important;
+  padding-top: 20px;
+  padding-bottom: -2px !important;
+    margin-left: 27px !important;
+    margin-right: 0px !important;
+border-radius: 0px 0px 15px 15px !important;
+  opacity: 0.9 !important;
+
+}
+
+@media screen and (max-width: 980px) {
+  img.GIFRT {
+		    width: 99% !important;
+      padding-top: 10px;
+
+	}
+}
+
+@media screen and (max-width: 680px) {
+	img.GIFRT {
+		    width: 106% !important;
+      padding-top: 10px;
+
+	}
+}
 
 
 
