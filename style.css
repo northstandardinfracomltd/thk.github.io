@@ -2416,20 +2416,32 @@ img.navlogo {
 .nav__logo {
   width: 290px;
   object-fit: contain;
+  
+  
+      width: 98% !important;
+    max-width: 320px !important;
+  object-fit: contain;
+  margin-top: -5px !important;
+    margin-bottom: -5px !important;
 }
 
 @media screen and (max-width: 980px) {
   .nav__logo {
-  width: 230px;
+    width: 98% !important;
+    max-width: 340px !important;
   object-fit: contain;
-}
+  margin-top: 2px !important;
+    margin-left: -5px !important;
+  }
 }
 
 @media screen and (max-width: 680px) {
 	.nav__logo {
-    width: 90% !important;
+    width: 98% !important;
+    max-width: 340px !important;
   object-fit: contain;
-  margin-top: 5px !important;
+  margin-top: 2px !important;
+    margin-left: -5px !important;
   }
 }
 
@@ -2450,7 +2462,6 @@ img.navlogo {
   position: fixed;
   top: 0;
   width: 100%;
-  display: flex;
   justify-content: space-between;
   padding: 14px;
   /* background-color: #111; */
@@ -2459,6 +2470,8 @@ img.navlogo {
   transition: all 0.5s;
   background: #fff !important;
   border-bottom: 1px solid #e1e1e3 !important;
+    display: flex;
+  align-items: center;
 }
 
 .nav__black {
@@ -3947,8 +3960,8 @@ a:hover {
   white-space: nowrap;
     padding-top: 15px !important;
     padding-bottom: 15px !important;
-    padding-right: 27px !important;
-    padding-left: 27px !important;
+    padding-right: 20px !important;
+    padding-left: 22px !important;
     font-size: 1.2rem;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
