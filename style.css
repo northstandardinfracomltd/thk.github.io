@@ -2428,10 +2428,10 @@ img.navlogo {
 @media screen and (max-width: 980px) {
   .nav__logo {
     width: 98% !important;
-    max-width: 340px !important;
+    max-width: 320px !important;
   object-fit: contain;
-  margin-top: 2px !important;
-    margin-left: -5px !important;
+  margin-top: -1px !important;
+    margin-bottom: -5px !important;
   }
 }
 
@@ -3984,8 +3984,8 @@ a:hover {
   white-space: nowrap;
     padding-top: 15px !important;
     padding-bottom: 15px !important;
-    padding-right: 27px !important;
-    padding-left: 27px !important;
+    padding-right: 20px !important;
+    padding-left: 22px !important;
     font-size: 1.2rem;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
