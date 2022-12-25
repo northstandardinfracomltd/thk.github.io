@@ -1906,6 +1906,18 @@ purpleblocks {
 }
 
 
+purpleblocksblue {
+  max-width: 1200px;
+  background: blue;
+  margin: 30px auto;
+  padding: 0 10px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
+
+
 purpleblocksrt {
   max-width: 1200px;
   margin: 0px auto;
@@ -3853,6 +3865,13 @@ h1.tag {
 .container {
   padding-top: 90px !important;
   background-color: #fff !important;
+  margin-top: -40px !important;
+  margin-bottom: 35px !important;
+}
+
+.container222 {
+  padding-top: 90px !important;
+  background-color: red !important;
   margin-top: -40px !important;
   margin-bottom: 35px !important;
 }
