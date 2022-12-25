@@ -1583,6 +1583,36 @@ hr.dotted {
   width: 100%
 }
 
+
+.entranceZ1subtitleiconized:before {
+    content: "";
+    display: block;
+    background: url("https://cdn.glitch.global/9bab6148-f5ee-4f2c-9b68-1e6f7735a053/nosss.svg?v=1671965141854") no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+  object-fit: contain !important;
+    margin: 0px 6px 0px 0px;
+}
+
+.entranceZ1subtitleiconized {
+  font-size: 22px !important;
+    font-family: "Saoecom2font" !important;
+line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: #221F20 !important;
+  margin-bottom: 12px !important;
+  text-align: left !important;
+  margin-right:  3% !important;
+  margin-left: 10px !important;
+  margin-top: -15px !important;
+  padding-bottom: 11px !important;
+  padding-top: 0px !important;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+}
+
+
 .entranceZ1subtitle {
   font-size: 22px !important;
     font-family: "Saoecom2font" !important;
