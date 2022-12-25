@@ -1565,7 +1565,7 @@ line-height: 1.3 !important;
     font-family: "Saoecom2fontlight" !important;
 line-height: 1.3 !important;
   letter-spacing: 0.01em !important;
-  color: #2572cb !important;
+  color: #3c8fef !important;
   margin-bottom: 12px !important;
   text-align: left !important;
   margin-right:  3% !important;
@@ -1578,6 +1578,10 @@ line-height: 1.3 !important;
   opacity: 1 !important;
 }
 
+hr.dotted {
+  border-top: 10px dotted red;
+  width: 100%
+}
 
 .entranceZ1subtitle {
   font-size: 22px !important;
