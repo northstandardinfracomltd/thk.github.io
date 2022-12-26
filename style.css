@@ -1110,8 +1110,8 @@ margin-top: -2px !important;
   width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 0px;
@@ -1119,7 +1119,6 @@ margin-top: -2px !important;
   border-style: solid;
   border: 1px solid rgb(41 101 203 / 21%);
   margin-bottom: 5px !important;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     position: relative;
   top: 0;
   transition: top ease 0.5s;
@@ -2372,8 +2371,8 @@ header {
 	justify-content: center;
 	margin-top: 12px;
   	margin-bottom: 20px;
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: 28px !important;
+	margin-left: 28px !important;
 }
 
 
@@ -3059,8 +3058,8 @@ img.btnsub-icon1E {
 
 .column1 {
 	flex: 1;
-	border: 1px solid #21262d !important;
-  border-radius: 4px !important;
+	border: 1px solid #e1e1e3 !important;
+  border-radius: 0px !important;
 	margin-left: 2px;
   	margin-top: 2px;
 	margin-bottom: 2px;
@@ -3069,7 +3068,7 @@ img.btnsub-icon1E {
   	padding-bottom: 0px;
 	padding-right: 0px;
 	padding-left: 0px;
-  background: #0d1116 !important;
+  background: #fff !important;
     text-align: center !important;
 
 	&:first-child { margin-left: 0; }
