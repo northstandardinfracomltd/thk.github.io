@@ -363,6 +363,63 @@ img.btnsub2-icon {
 
 
 
+.btnsub000P3rayRT1 {
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    width: 210px !important;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: -10px !important;
+    margin-bottom: 30px !important;
+    margin-left: 25px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+}
+
+
+.btnsub000P3rayRT1:hover {
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    width: 210px !important;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: -10px !important;
+    margin-bottom: 30px !important;
+    margin-left: 25px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+}
+
+
+
+
+
 .btnsub000P3rayRT {
     padding-top: 18px !important;
     padding-bottom: 18px !important;
@@ -1714,6 +1771,23 @@ line-height: 1.3 !important;
   padding-left: 15px !important;
 }
 
+
+.entranceZ13000P31 {
+  font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+line-height: 1.3 !important;
+  letter-spacing: 0.01em !important;
+  color: #221F20 !important;
+  margin-bottom: 22px !important;
+  text-align: left !important;
+  margin-right:  3% !important;
+  margin-left: 3% !important;
+  padding-bottom: 11px !important;
+  padding-top: 6px !important;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+}
+
 .entranceZ13000P3- {
   font-size: 30px !important;
     font-family: "Saoecom2font" !important;
@@ -2371,8 +2445,8 @@ header {
 	justify-content: center;
 	margin-top: 12px;
   	margin-bottom: 20px;
-	margin-right: 28px !important;
-	margin-left: 28px !important;
+	margin-right: 26px !important;
+	margin-left: 26px !important;
 }
 
 
@@ -3048,8 +3122,8 @@ img.btnsub-icon1E {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
-	margin-top: 60px;
-  	margin-bottom: 65px;
+	margin-top: 0px;
+  	margin-bottom: -10px;
 	margin-right: 0px;
 	margin-left: 0px;
 
