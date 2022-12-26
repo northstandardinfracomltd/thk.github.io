@@ -3143,7 +3143,7 @@ img.btnsub-icon1E {
 	padding-right: 0px;
 	padding-left: 0px;
   background: #fff !important;
-    text-align: center !important;
+    text-align: left !important;
 
 	&:first-child { margin-left: 0; }
 	&:last-child { margin-right: 0; }
@@ -3911,6 +3911,33 @@ h1.tag {
     text-align: center !important;
     margin-top: 5px !important;
     margin-bottom: 20px !important;
+    margin-left: 25px !important;
+    margin-right: 10px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+    text-align: left !important;
+}
+
+
+.button21 {
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: left !important;
+    margin-top: -10px !important;
+    margin-bottom: 30px !important;
     margin-left: 25px !important;
     margin-right: 10px !important;
     border-style: dashed;
