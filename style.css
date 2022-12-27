@@ -1087,16 +1087,17 @@ margin-top: -2px !important;
 }
 
 .combat1 {
-  background: #f2f2f2;
+  background: #fff;
   width: 100%;
-    display: flex;
+  display: flex;
   flex-direction: column;
   align-items: left;
   justify-content: center;
   padding-left: 0px;
-    padding-right: 0px;
+  padding-right: 0px;
   padding-bottom: 0px;
-  border-radius: 14px !important;
+  border-radius: 0px !important;
+  border: 1px solid #e1e1e3 !important;
 }
 
 .combat2 {
@@ -1348,7 +1349,7 @@ img.GIF {
   padding-bottom: -2px !important;
     padding-left: 0px !important;
     padding-right: 0px !important;
-border-radius: 0px 0px 15px 15px !important;
+border-radius: 0px 0px 0px 0px !important;
   opacity: 0.6 !important;
 
 }
