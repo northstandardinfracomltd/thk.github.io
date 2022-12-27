@@ -1396,7 +1396,7 @@ margin-left: auto;
 
 @media screen and (max-width: 680px) {
 	img.GIFSS {
-  width: 300px !important;
+  width: 100% !important;
       padding-top: 10px;
 
 	}
@@ -2076,6 +2076,33 @@ purpleblocks2 {
   display: grid;
   /*Define our columns */
   grid-gap: 1em;
+}
+
+
+@media screen and (max-width: 980px) {
+  purpleblocks2 {
+  max-width: 1200px;
+  margin: 30px auto;
+    margin-top: -50px !important;
+  padding: 0 19px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
+}
+
+@media screen and (max-width: 680px) {
+	purpleblocks2 {
+  max-width: 1200px;
+  margin: 30px auto;
+    margin-top: -50px !important;
+  padding: 0 10px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
 }
 
 
