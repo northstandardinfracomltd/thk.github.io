@@ -1356,7 +1356,7 @@ border-radius: 0px 0px 0px 0px !important;
 
 @media screen and (max-width: 980px) {
   img.GIF {
-		    width: 99% !important;
+		    width: 100% !important;
       padding-top: 10px;
 
 	}
@@ -1364,7 +1364,7 @@ border-radius: 0px 0px 0px 0px !important;
 
 @media screen and (max-width: 680px) {
 	img.GIF {
-		    width: 106% !important;
+		    width: 100% !important;
       padding-top: 10px;
 
 	}
@@ -1373,7 +1373,7 @@ border-radius: 0px 0px 0px 0px !important;
 
 
 img.GIFSS {
-  width: 680px !important;
+  width: 700px !important;
   padding-top: 20px;
   padding-bottom: -2px !important;
     padding-left: 0px !important;
@@ -1388,7 +1388,7 @@ margin-left: auto;
 
 @media screen and (max-width: 980px) {
   img.GIFSS {
-  width: 300px !important;
+  width: 600px !important;
       padding-top: 10px;
 
 	}
@@ -4060,7 +4060,7 @@ h1.tag {
   padding: .75rem;
   margin-bottom: 30px;
   border: 0;
-  flex-basis: 75.333%;
+  flex-basis: 93%;
   flex-grow: 0;
   flex-shrink: 0;
   margin-right: 10px;
