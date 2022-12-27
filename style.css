@@ -2695,7 +2695,7 @@ img.navlogo {
 
 .nav__logo {
   object-fit: contain;  
-      width: 98% !important;
+      width: 80% !important;
     max-width: 330px !important;
   object-fit: contain;
   margin-top: 0px !important;
@@ -2704,7 +2704,7 @@ img.navlogo {
 
 @media screen and (max-width: 980px) {
   .nav__logo {
-    width: 98% !important;
+    width: 80% !important;
     max-width: 320px !important;
   object-fit: contain;
   margin-top: -1px !important;
@@ -2714,7 +2714,7 @@ img.navlogo {
 
 @media screen and (max-width: 680px) {
 	.nav__logo {
-    width: 98% !important;
+    width: 80% !important;
     max-width: 340px !important;
   object-fit: contain;
   margin-top: 2px !important;
