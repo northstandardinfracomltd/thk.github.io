@@ -1373,13 +1373,13 @@ border-radius: 0px 0px 0px 0px !important;
 
 
 img.GIFSS {
-  width: 700px !important;
+  width: 400px !important;
   padding-top: 20px;
   padding-bottom: -2px !important;
     padding-left: 0px !important;
     padding-right: 0px !important;
 border-radius: 0px 0px 15px 15px !important;
-  opacity: 0.8 !important;
+  opacity: 1 !important;
   text-align: center !important;
 margin-left: auto;
   margin-right: auto;
@@ -1388,7 +1388,7 @@ margin-left: auto;
 
 @media screen and (max-width: 980px) {
   img.GIFSS {
-  width: 600px !important;
+  width: 400px !important;
       padding-top: 10px;
 
 	}
@@ -1396,7 +1396,7 @@ margin-left: auto;
 
 @media screen and (max-width: 680px) {
 	img.GIFSS {
-  width: 100% !important;
+  width: 90% !important;
       padding-top: 10px;
 
 	}
