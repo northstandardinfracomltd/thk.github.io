@@ -4285,19 +4285,18 @@ a:hover {
 
 .dd-button {
   display: inline-block;
-  background-color: #ffffff;
   white-space: nowrap;
     padding-top: 15px !important;
     padding-bottom: 15px !important;
-    padding-right: 20px !important;
-    padding-left: 22px !important;
+    padding-right: 30px !important;
+    padding-left: 30px !important;
     font-size: 1.2rem;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
-    border-radius: 10px;
+    border-radius: 0px;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     border-style: dashed;
@@ -4309,23 +4308,22 @@ a:hover {
 
 .dd-button:hover {
   display: inline-block;
-  background-color: #ffffff;
   white-space: nowrap;
     padding-top: 15px !important;
     padding-bottom: 15px !important;
-    padding-right: 20px !important;
-    padding-left: 22px !important;
+    padding-right: 30px !important;
+    padding-left: 30px !important;
     font-size: 1.2rem;
     font-weight: var(--base-text-weight-medium, 500);
     line-height: 20px;
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
-    border-radius: 10px;
+    border-radius: 0px;
     font-family: "Saoecom2font" !important;
     text-align: center !important;
     border-style: dashed;
-    background-color: #dc3136;
+    background-color: #eb3a3f;
     color: #ffffff !important;
     border: 1px solid #dc3136;
 }
