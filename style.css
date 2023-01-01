@@ -501,6 +501,33 @@ img.btnsub2-icon {
 }
 
 
+.btnsub000P3rayabsolu {
+    padding-top: 18px !important;
+  width: 92% !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 10px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: -10px !important;
+    margin-bottom: 55px !important;
+    margin-left: 58px !important;
+    margin-right: 58px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+}
+
+
 .btnsub000P3ray:hover {
     padding-top: 18px !important;
     padding-bottom: 18px !important;
@@ -1236,6 +1263,7 @@ margin-top: -2px !important;
 
 .combat000P3absoluX {
   background-image: url("https://cdn.glitch.global/9bab6148-f5ee-4f2c-9b68-1e6f7735a053/Courbevoie.png?v=1672153190845");
+  background-position: center;
   width: 100%;
   display: flex;
   flex-direction: column;
