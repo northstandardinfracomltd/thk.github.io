@@ -1725,19 +1725,25 @@ line-height: 1.1 !important;
 
 
 .entranceZ1titleabsolu {
-  font-size: 45px !important;
+  font-size: 50px !important;
     font-family: "Saoecom2font" !important;
-line-height: 1.1 !important;
+line-height: 1 !important;
   letter-spacing: 0.01em !important;
-  color: #c4c4c6 !important;
+  color: #b4b3ad !important;
+  
+line-height: 1.1 !important;
+  
   margin-bottom: 40px !important;
   text-align: center !important;
-  margin-right:  20px !important;
-  margin-left: 20px !important;
+  
+  margin-right:  5px !important;
+  margin-left: 5px !important;
+  
   margin-top: 110px !important;
   padding-top: 6px !important;
-  padding-right: 15px !important;
-  padding-left: 15px !important;
+  
+  padding-right: 3px !important;
+  padding-left: 3px !important;
 
 }
 
