@@ -2255,6 +2255,9 @@ purpleblocks2abs {
   max-width: 1200px;
   margin: 30px auto;
     margin-top: -50px !important;
+  margin-left: auto;
+    margin-right: auto;
+
   padding: 0 19px;
   width: 100%; 
   display: grid;
@@ -2264,7 +2267,7 @@ purpleblocks2abs {
 
 
 @media screen and (max-width: 980px) {
-  purpleblocks2 {
+  purpleblocks2abs {
   max-width: 1200px;
   margin: 30px auto;
     margin-top: -50px !important;
@@ -2277,7 +2280,7 @@ purpleblocks2abs {
 }
 
 @media screen and (max-width: 680px) {
-	purpleblocks2 {
+	purpleblocks2abs {
   max-width: 1200px;
   margin: 30px auto;
     margin-top: -50px !important;
@@ -4660,6 +4663,14 @@ a:hover {
 }
 
 
+div.bubble {
+  text-align: center !important;
+  margin-left: auto !important;
+    margin-right: auto !important;
+margin-top: 45px;
+}
+
+
 .bubble {
   position: relative;
   font-family: sans-serif;
@@ -4682,6 +4693,6 @@ a:hover {
   border-right: 12px solid transparent;
   border-top: 12px solid red ;
   border-bottom: 20px solid transparent;
-  left: 32px;
+  left: 132px;
   bottom: -24px;
 }
