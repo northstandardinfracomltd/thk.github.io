@@ -528,6 +528,33 @@ img.btnsub2-icon {
 }
 
 
+.btnsub000P3rayabsolu:hover {
+    padding-top: 18px !important;
+  width: 86% !important;
+    padding-bottom: 18px !important;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    font-size: 1.2rem;
+    font-weight: var(--base-text-weight-medium, 500);
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    border-radius: 0px;
+    font-family: "Saoecom2font" !important;
+    text-align: center !important;
+    margin-top: 0px !important;
+    margin-bottom: 55px !important;
+    margin-left: 58px !important;
+    margin-right: 58px !important;
+    border-style: dashed;
+    background-color: #dc3136;
+    color: #ffffff !important;
+    border: 1px solid #dc3136;
+}
+
+
 .btnsub000P3ray:hover {
     padding-top: 18px !important;
     padding-bottom: 18px !important;
@@ -2888,7 +2915,7 @@ header {
 .columnabsolu {
 	flex: 1;
 	border: 0px solid transparent;
-	margin: 0px;
+		margin: 0 0 0 0 !important;
 	padding-top: 10px;
   padding-bottom: 0px;
 	padding-right: 0px;
@@ -2905,7 +2932,7 @@ header {
   .columnsabsolu .columnabsolu {
     flex-basis: 52%;
 		&:nth-last-child(2) {
-			margin-right: 0;
+		margin: 0 0 0 0 !important;
 		}
 		&:last-child {
 			flex-basis: 100%;
@@ -2917,7 +2944,7 @@ header {
 @media screen and (max-width: 680px) {
 	.columnsabsolu .columnabsolu {
 		flex-basis: 100%;
-		margin: 0 0 0px 0 !important;
+		margin: 0px 0px 0px 0px !important;
 	}
 }
 
@@ -3070,7 +3097,7 @@ img.navlogo {
 .nav__logoF {
   width: 350px;
   object-fit: contain;
-  margin-left: -8px;
+  margin-left: -4px;
   margin-top: 10px;
 }
 
@@ -3078,16 +3105,16 @@ img.navlogo {
   .nav__logoF {
   width: 350px;
   object-fit: contain;
-  margin-left: -8px;
+  margin-left: -3px;
   margin-top: 10px;
 }
 }
 
 @media screen and (max-width: 680px) {
 	.nav__logoF {
-  width: 290px;
+  width: 330px;
   object-fit: contain;
-  margin-left: -8px;
+  margin-left: -3px;
   margin-top: 10px;
 }
 }
