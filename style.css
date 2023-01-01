@@ -4355,7 +4355,7 @@ h1.tag {
 
 .items {
   border: 0px solid #f4f4f4 !important;
-  border-radius: 14px;
+  border-radius: 0px;
   background-clip: border-box;
   background-color: #fff;
   overflow: hidden;
@@ -4364,6 +4364,7 @@ h1.tag {
   margin-right: 10px !important;
   margin-top: 5px !important;
   font-family: "Saoecom2fontlight" !important;
+  border: 1px solid #e1e1e3 !important;
 }
 
 .item {
