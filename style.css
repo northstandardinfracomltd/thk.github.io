@@ -1234,6 +1234,61 @@ margin-top: -2px !important;
 
 
 
+.combat000P3absoluX {
+  background-image: url("https://cdn.glitch.global/9bab6148-f5ee-4f2c-9b68-1e6f7735a053/Courbevoie.png?v=1672153190845");
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 0px !important;
+  border-style: solid;
+  border-bottom: 1px solid red !important;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+
+.combat000P3absolu {
+  background: #ffffff;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 0px !important;
+  border-style: solid;
+  border-bottom: 1px solid red !important;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+
+
+@media screen and (max-width: 980px) {
+  combat000P3absolu:hover {
+  top: 0 !important;
+}
+}
+
+@media screen and (max-width: 680px) {
+	combat000P3absolu:hover {
+  top: 0 !important;
+}
+}
+
+
+
 .combat000P2 {
   background: rgb(91 87 176 / 21%);
   width: 100%;
@@ -2568,7 +2623,6 @@ header {
 
 
 
-
 .column {
 	flex: 1;
 	border: 0px solid transparent;
@@ -2605,6 +2659,56 @@ header {
 		margin: 0 0 15px 0 !important;
 	}
 }
+
+
+
+
+
+
+
+
+
+
+.columnabsolu {
+	flex: 1;
+	border: 0px solid transparent;
+	margin: 0px;
+	padding-top: 10px;
+  padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+
+	&:first-child { margin-left: 0; }
+	&:last-child { margin-right: 0; }
+	
+}
+
+
+
+@media screen and (max-width: 980px) {
+  .columnsabsolu .columnabsolu {
+		margin-bottom: 15px !important;
+    flex-basis: 40%;
+		&:nth-last-child(2) {
+			margin-right: 0;
+		}
+		&:last-child {
+			flex-basis: 100%;
+			margin: 0;
+		}
+	}
+}
+
+@media screen and (max-width: 680px) {
+	.columnsabsolu .columnabsolu {
+		flex-basis: 100%;
+		margin: 0 0 15px 0 !important;
+	}
+}
+
+
+
+
 
 
 
