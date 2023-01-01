@@ -2039,6 +2039,19 @@ purpleblocks {
 }
 
 
+
+purpleblocksabsolu {
+  max-width: 100%;
+  margin: 0px auto;
+  padding: 0 0px;
+  width: 100%; 
+  display: grid;
+  /*Define our columns */
+  grid-gap: 1em;
+}
+
+
+
 purpleblocksblue {
   max-width: 1200px;
   background: blue;
@@ -2486,6 +2499,18 @@ header {
 	margin-right: 10px;
 	margin-left: 10px;
 }
+
+.columnsabsolu {
+  background: #fff !important;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin-top: 12px;
+  	margin-bottom: 20px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
 
 
 .columns1 {
