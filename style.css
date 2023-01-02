@@ -1395,6 +1395,27 @@ margin-top: -2px !important;
   transition: top ease 0.5s;
 }
 
+
+.combat000P3absoluX7 {
+  background-image: url("https://cdn.glitch.global/2f73cbf9-570d-4044-b35c-1ae63a96f6c4/CONTACT.png?v=1672656727735");
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-radius: 0px !important;
+  border-style: solid;
+  border-bottom: 1px solid #e1e1e3 !important;
+  margin-bottom: 5px !important;
+    position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
 .combat000P3absolu {
   background: #ffffff;
   width: 100%;
